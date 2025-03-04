@@ -4,7 +4,7 @@
 start_time=$(date +%s)
 
 # TODO: Set number of plates to process
-NUM_PLATES=None
+NUM_PLATES=3
 
 echo "===== STARTING SEQUENTIAL PROCESSING OF $NUM_PLATES PLATES ====="
 
@@ -20,7 +20,7 @@ for PLATE in $(seq 1 $NUM_PLATES); do
     # Run Snakemake with plate filter for this plate
     snakemake --executor slurm --use-conda \
         --workflow-profile "slurm/" \
-        --snakefile "/lab/barcheese01/mdiberna/brieflow/workflow/Snakefile_well_plate_level" \
+        --snakefile "../brieflow/workflow/Snakefile" \
         --configfile "config/config.yml" \
         --latency-wait 60 \
         --rerun-triggers mtime \
