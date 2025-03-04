@@ -24,11 +24,13 @@ This repository is designed to work with Brieflow to analyze optical pooled scre
 Please see the [Git Submodules basic explanation](https://gist.github.com/gitaarik/8735255) for information on how to best install, use, and update this submodule.
 
 2. This Repository (Analysis):
-   - Create a new repo wih the "Use this template" button for each new screen analysis
+   - Create a new screen repository wih the "Use this template" button for each new screen analysis
 ![alt text](images/image.png)
    - Follow instructions below to run analysis. 
    `analysis/` contains configuration parameters and analysis outputs.
    Results are organized by analysis module (preprocess, sbs_process, phenotype_process)
+   - *Optional*: Add template brieflow-analysis template as an upstream reference in screen repository:
+   `git remote add template https://github.com/cheeseman-lab/brieflow-analysis`
 
 
 ## Analysis Steps
@@ -52,7 +54,11 @@ conda activate brieflow_workflows
 sh 1.run_preprocessing.sh
 ```
 **Slurm**:
+
+Change `NUM_PLATES` to the number of plates you are processing (to process each plate separately).
+
 ```sh
+conda activate brieflow_workflows
 sbatch 1.run_preprocessing_slurm.sh
 ```
 
@@ -76,7 +82,11 @@ conda activate brieflow_workflows
 sh 4.run_sbs_phenotype.sh
 ```
 **Slurm**:
+
+Change `NUM_PLATES` to the number of plates you are processing (to process each plate separately).
+
 ```sh
+conda activate brieflow_workflows
 sbatch 4.run_sbs_phenotype_slurm.sh
 ```
 
@@ -93,6 +103,7 @@ sh 6.run_merge.sh
 ```
 **Slurm**:
 ```sh
+conda activate brieflow_workflows
 sbatch 6.run_merge_slurm.sh
 ```
 
@@ -109,6 +120,7 @@ sh 8.run_aggregate.sh
 ```
 **Slurm**:
 ```sh
+conda activate brieflow_workflows
 sbatch 8.run_aggregate_slurm.sh
 ```
 
@@ -125,6 +137,7 @@ sh 10.run_cluster.sh
 ```
 **Slurm**:
 ```sh
+conda activate brieflow_workflows
 sbatch 10.run_cluster_slurm.sh
 ```
 
@@ -136,18 +149,13 @@ It is possible to restrict the SBS/phenotype processing with the following:
 See the notebook for more details.
 2) By varying the tags in the `4.run_sbs_phenotype` sh files (`--until all_sbs` or `--until all_phenotype`), the analysis will only run only the analysis of interest.
 
-### Run Entire Analysis
+## Generate Rulegraph
 
-If all parameter configurations are known for the entire Brieflow pipeline, it is possible to run the entire pipeline with the following:
+Run the following script to generate a rulegraph of Brieflow:
 
-**Local**:
 ```sh
 conda activate brieflow_workflows
-sh run_entire_analysis.sh
-```
-**Slurm**:
-```sh
-sbatch run_entire_analysis_slurm.sh
+sh generate_rulegraph.sh
 ```
 
 ## Contributing
