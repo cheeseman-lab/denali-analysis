@@ -15,17 +15,17 @@ jobs: 300
 set-resources:
    # preprocessing
     extract_metadata_sbs:
-        mem_mb: 1000
+        mem_mb: 2000
     combine_metadata_sbs:
         mem_mb: 2500
     extract_metadata_phenotype:
-        mem_mb: 1000
+        mem_mb: 2000
     combine_metadata_phenotype:
         mem_mb: 2500
     convert_sbs:
-        mem_mb: 1000
+        mem_mb: 2000
     convert_ph:
-        mem_mb: 1000
+        mem_mb: 2000
     calculate_ic_sbs:
         mem_mb: 50000
     calculate_ic_phenotype:
