@@ -1,10 +1,16 @@
 #!/bin/bash
 
+# Log all output to a log file (stdout and stderr)
+mkdir -p slurm/slurm_output/main
+start_time_formatted=$(date +%Y%m%d_%H%M%S)
+log_file="slurm/slurm_output/main/sbs_phenotype-${start_time_formatted}.log"
+exec > >(tee -a "$log_file") 2>&1
+
 # Start timing
 start_time=$(date +%s)
 
 # TODO: Set number of plates to process
-NUM_PLATES=None
+NUM_PLATES=3
 
 echo "===== STARTING SEQUENTIAL PROCESSING OF $NUM_PLATES PLATES ====="
 
@@ -24,7 +30,7 @@ for PLATE in $(seq 1 $NUM_PLATES); do
         --configfile "config/config.yml" \
         --latency-wait 60 \
         --rerun-triggers mtime \
-        --until all_sbs all_phenotype \
+        --until all_sbs \
         --config plate_filter=$PLATE
     
     # Check if Snakemake was successful
