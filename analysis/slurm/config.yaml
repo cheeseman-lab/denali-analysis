@@ -33,30 +33,30 @@ set-resources:
 
     # sbs
     align_sbs:
-        mem_mb: 2000
+        mem_mb: 2500
     log_filter:
-        mem_mb: 2000
+        mem_mb: 2500
     compute_standard_deviation:
-        mem_mb: 2000
+        mem_mb: 2500
     find_peaks:
-        mem_mb: 500
-    max_filter:
-        mem_mb: 1500
-    apply_ic_field_sbs:
         mem_mb: 2000
+    max_filter:
+        mem_mb: 2000
+    apply_ic_field_sbs:
+        mem_mb: 2500
     segment_sbs:
         # slurm_partition: "'nvidia-2080ti-20'"
-        mem_mb: 3000
+        mem_mb: 3500
         cpus_per_task: 4
         # slurm_extra: "'--gres=gpu:1'"
     extract_bases:
-        mem_mb: 750
+        mem_mb: 1000
     call_reads:
-        mem_mb: 1000
+        mem_mb: 1500
     call_cells:
-        mem_mb: 1000
+        mem_mb: 1500
     extract_sbs_info:
-        mem_mb: 500
+        mem_mb: 2000
     combine_reads:
         mem_mb: 20000
     combine_cells:
@@ -68,11 +68,6 @@ set-resources:
     eval_mapping:
         mem_mb: 50000
         cpus_per_task: 12
-    segment_sbs_paramsearch:
-        mem_mb: 3000
-        cpus_per_task: 4
-    summarize_segment_sbs_paramsearch:
-        mem_mb: 2000
 
     # phenotype
     apply_ic_field_phenotype:
@@ -97,11 +92,6 @@ set-resources:
     eval_segmentation_phenotype:
         mem_mb: 2000
     eval_features:
-        mem_mb: 2000
-    segment_phenotype_paramsearch:
-        mem_mb: 3000
-        cpus_per_task: 4
-    summarize_segment_phenotype_paramsearch:
         mem_mb: 2000
 
     # merge
