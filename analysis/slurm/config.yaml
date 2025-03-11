@@ -50,7 +50,7 @@ set-resources:
         cpus_per_task: 4
         # slurm_extra: "'--gres=gpu:1'"
     extract_bases:
-        mem_mb: 1000
+        mem_mb: 2000
     call_reads:
         mem_mb: 1500
     call_cells:
