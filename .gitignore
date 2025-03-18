@@ -2,5 +2,5 @@
 analysis/.snakemake/
 analysis/slurm/slurm_output/
 analysis_root/
-analysis_root_old/
 analysis_root_test/
+analysis_root_OLD_FLIPPED_CHANNEL_ORDER/
