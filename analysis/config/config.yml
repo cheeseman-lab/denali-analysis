@@ -12,6 +12,25 @@
 # Parameters:
 all:
   root_fp: analysis_root/
+phenotype:
+  align: false
+  cell_diameter: 53.333077381099564
+  cellprob_threshold: 0
+  channel_names:
+  - DAPI
+  - COXIV
+  - CENPA
+  - WGA
+  cyto_index: 1
+  cyto_model: cyto3
+  dapi_index: 0
+  flow_threshold: 0.4
+  foci_channel: 2
+  gpu: false
+  method: cellpose
+  mode: null
+  nuclei_diameter: 41.97813156768016
+  reconcile: contained_in_cells
 preprocess:
   phenotype_channel_order: null
   phenotype_channel_order_flip: true
