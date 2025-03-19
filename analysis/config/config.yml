@@ -14,7 +14,7 @@ all:
   root_fp: analysis_root/
 phenotype:
   align: false
-  cell_diameter: 53.333077381099564
+  cell_diameter: 53.075815293046055
   cellprob_threshold: 0
   channel_names:
   - DAPI
