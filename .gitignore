@@ -1,4 +1,6 @@
 # ignore files generated during run
 analysis/.snakemake/
 analysis/slurm/slurm_output/
-analysis/*
+analysis_root/
+analysis_root_test/
+analysis_root_OLD_FLIPPED_CHANNEL_ORDER/

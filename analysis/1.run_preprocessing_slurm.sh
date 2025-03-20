@@ -1,10 +1,16 @@
 #!/bin/bash
 
+# Log all output to a log file (stdout and stderr)
+mkdir -p slurm/slurm_output/main
+start_time_formatted=$(date +%Y%m%d-%H%M%S)
+log_file="slurm/slurm_output/main/preprocessing-${start_time_formatted}.log"
+exec > >(tee -a "$log_file") 2>&1
+
 # Start timing
 start_time=$(date +%s)
 
 # TODO: Set number of plates to process
-NUM_PLATES=None
+NUM_PLATES=1
 
 echo "===== STARTING SEQUENTIAL PROCESSING OF $NUM_PLATES PLATES ====="
 
@@ -20,10 +26,11 @@ for PLATE in $(seq 1 $NUM_PLATES); do
     # Run Snakemake with plate filter for this plate
     snakemake --executor slurm --use-conda \
         --workflow-profile "slurm/" \
-        --snakefile "/lab/barcheese01/mdiberna/brieflow/workflow/Snakefile_well_plate_level" \
+        --snakefile "../brieflow/workflow/Snakefile" \
         --configfile "config/config.yml" \
         --latency-wait 60 \
         --rerun-triggers mtime \
+        --keep-going \
         --until all_preprocess \
         --config plate_filter=$PLATE
     
