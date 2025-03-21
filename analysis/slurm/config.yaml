@@ -90,7 +90,7 @@ set-resources:
     merge_phenotype_cp:
         mem_mb: 300000
     eval_segmentation_phenotype:
-        mem_mb: 2000
+        mem_mb: 50000
     eval_features:
         mem_mb: 2000
 
