@@ -121,7 +121,7 @@ set-resources:
     process_mitotic_gene_data:
         mem_mb: 100000
     process_interphase_gene_data:
-        mem_mb: 800000
+        mem_mb: 980000
     process_all_gene_data:
         mem_mb: 800000
     prepare_mitotic_montage_data:
