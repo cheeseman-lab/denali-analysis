@@ -114,29 +114,22 @@ set-resources:
         mem_mb: 500000
 
     # aggregate
-    clean_transform_standardize:
-        mem_mb: 500000
-    split_phases:
-        mem_mb: 500000
-    process_mitotic_gene_data:
+    split_datasets:
+        mem_mb: 200000
+    filter:
         mem_mb: 100000
-    process_interphase_gene_data:
+    align:
         mem_mb: 980000
-    process_all_gene_data:
-        mem_mb: 800000
-    prepare_mitotic_montage_data:
-        mem_mb: 800000
-    prepare_interphase_montage_data:
-        mem_mb: 800000
-    generate_mitotic_montage:
-        mem_mb: 2000
-    generate_interphase_montage:
-        mem_mb: 2000
+        cpus_per_task: 4
+    aggregate:
+        mem_mb: 980000
+        cpus_per_task: 4
     eval_aggregate:
-        mem_mb: 500000
+        mem_mb: 800000
+        cpus_per_task: 4
 
     # cluster
-    generate_dataset:
+    clean_aggregate:
         mem_mb: 2000
     phate_leiden_clustering:
         mem_mb: 10000
