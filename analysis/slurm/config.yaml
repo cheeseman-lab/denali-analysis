@@ -127,6 +127,13 @@ set-resources:
     eval_aggregate:
         mem_mb: 800000
         cpus_per_task: 4
+    # montages
+    prepare_montage_data:
+        mem_mb: 10000
+    generate_montage:
+        mem_mb: 10000
+    initiate_montage:
+        mem_mb: 1000
 
     # cluster
     clean_aggregate:
