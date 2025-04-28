@@ -24,14 +24,14 @@ aggregate:
   control_key: nontargeting
   drop_cols_threshold: 0.1
   drop_rows_threshold: 0.01
-  filter_queries: null
+  filter_queries:
+  - mapped_single_gene == True
   impute: true
   metadata_cols_fp: config/cell_data_metadata_cols.tsv
   num_align_batches: 1
   perturbation_id_col: sgRNA_0
   perturbation_name_col: gene_symbol_0
   variance_or_ncomp: 0.99
-  num_align_batches: 1
 all:
   root_fp: analysis_root/
 cluster:
