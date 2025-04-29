@@ -39,13 +39,16 @@ cluster:
   corum_group_benchmark_fp: config/benchmark_clusters/corum_group_benchmark.tsv
   kegg_group_benchmark_fp: config/benchmark_clusters/kegg_group_benchmark.tsv
   leiden_resolutions:
-  - 8
+  - 9
   - 10
+  - 11
   - 12
+  - 13
+  - 15
   min_cell_cutoffs:
+    Interphase: 3
+    Mitotic: 0
     all: 3
-    interphase: 3
-    mitotic: 0
   phate_distance_metric: cosine
   string_pair_benchmark_fp: config/benchmark_clusters/string_pair_benchmark.tsv
 merge:
