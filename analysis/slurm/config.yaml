@@ -129,7 +129,8 @@ set-resources:
         cpus_per_task: 4
     # montages
     prepare_montage_data:
-        mem_mb: 10000
+        mem_mb: 100000
+        cpus_per_task: 8
     generate_montage:
         mem_mb: 10000
     initiate_montage:
