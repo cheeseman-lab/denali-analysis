@@ -118,6 +118,9 @@ set-resources:
         mem_mb: 200000
     filter:
         mem_mb: 100000
+    generate_feature_table:
+        mem_mb: 980000
+        cpus_per_task: 4
     align:
         mem_mb: 980000
         cpus_per_task: 4
@@ -125,9 +128,6 @@ set-resources:
         mem_mb: 980000
         cpus_per_task: 4
     eval_aggregate:
-        mem_mb: 980000
-        cpus_per_task: 4
-    generate_feature_table:
         mem_mb: 980000
         cpus_per_task: 4
     # montages
