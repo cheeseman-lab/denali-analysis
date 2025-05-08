@@ -120,16 +120,19 @@ set-resources:
         mem_mb: 100000
     generate_feature_table:
         mem_mb: 980000
-        cpus_per_task: 4
+        cpus_per_task: 8
+    perturbation_score:
+        mem_mb: 980000
+        cpus_per_task: 8
     align:
         mem_mb: 980000
-        cpus_per_task: 4
+        cpus_per_task: 8
     aggregate:
         mem_mb: 980000
-        cpus_per_task: 4
+        cpus_per_task: 8
     eval_aggregate:
         mem_mb: 980000
-        cpus_per_task: 4
+        cpus_per_task: 8
     # montages
     prepare_montage_data:
         mem_mb: 100000
