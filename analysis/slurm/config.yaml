@@ -127,7 +127,7 @@ set-resources:
     eval_aggregate:
         mem_mb: 980000
         cpus_per_task: 4
-    get_feature_table:
+    generate_feature_table:
         mem_mb: 980000
         cpus_per_task: 4
     # montages
