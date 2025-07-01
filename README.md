@@ -44,7 +44,7 @@ From the documentation:
 
 To get started:
 
-1) Create a fork of brieflow-analysis as described [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
+1) Create a fork of brieflow as described [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
 
 2) Clone the brieflow package into this repo using the following git submodule commands:
 
