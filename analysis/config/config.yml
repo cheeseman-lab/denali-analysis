@@ -63,3 +63,25 @@ sbs:
   cell_flow_threshold: 1
   cell_cellprob_threshold: 0
   cyto_model: cyto3
+phenotype:
+  foci_channel: 2
+  channel_names:
+  - DAPI
+  - COXIV
+  - CENPA
+  - WGA
+  align: false
+  dapi_index: 0
+  cyto_index: 1
+  segmentation_method: cellpose
+  reconcile: contained_in_cells
+  gpu: false
+  cp_method: cp_multichannel
+  mode: null
+  nuclei_diameter: 41.97813156768016
+  cell_diameter: 53.075815293046055
+  nuclei_flow_threshold: 0.4
+  nuclei_cellprob_threshold: 0.0
+  cell_flow_threshold: 1
+  cell_cellprob_threshold: 0
+  cyto_model: cyto3
