@@ -85,3 +85,26 @@ phenotype:
   cell_flow_threshold: 1
   cell_cellprob_threshold: 0
   cyto_model: cyto3
+merge:
+  merge_combo_fp: config/merge_combo.tsv
+  sbs_metadata_cycle: 1
+  sbs_metadata_channel: null
+  ph_metadata_channel: null
+  initial_sites:
+  - - 5
+    - 0
+  - - 141
+    - 32
+  - - 370
+    - 86
+  - - 896
+    - 212
+  - - 1163
+    - 270
+  - - 1599
+    - 376
+  det_range:
+  - 0.06
+  - 0.065
+  score: 0.1
+  threshold: 2
