@@ -108,3 +108,25 @@ merge:
   - 0.065
   score: 0.1
   threshold: 2
+aggregate:
+  metadata_cols_fp: config/cell_data_metadata_cols.tsv
+  collapse_cols:
+  - sgRNA_0
+  - gene_symbol_0
+  classifier_path: config/binary_xgb_none_model.dill
+  aggregate_combo_fp: config/aggregate_combo.tsv
+  filter_queries:
+  - mapped_single_gene == True
+  perturbation_name_col: gene_symbol_0
+  drop_cols_threshold: 0.1
+  drop_rows_threshold: 0.01
+  impute: true
+  contamination: 0.01
+  batch_cols:
+  - plate
+  - well
+  control_key: nontargeting
+  perturbation_id_col: sgRNA_0
+  variance_or_ncomp: 0.99
+  num_align_batches: 1
+  agg_method: median
