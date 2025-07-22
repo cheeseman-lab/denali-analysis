@@ -51,7 +51,7 @@ sbs:
   - C
   q_min: 0
   barcode_col: sgRNA
-  prefix_col: null
+  prefix_col: prefix
   error_correct: false
   sort_calls: count
   mode: null
@@ -130,3 +130,21 @@ aggregate:
   variance_or_ncomp: 0.99
   num_align_batches: 1
   agg_method: median
+cluster:
+  min_cell_cutoffs:
+    Mitotic: 0
+    Interphase: 3
+    all: 3
+  leiden_resolutions:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 15
+  phate_distance_metric: cosine
+  cluster_combo_fp: config/cluster_combo.tsv
+  uniprot_data_fp: config/benchmark_clusters/uniprot_data.tsv
+  string_pair_benchmark_fp: config/benchmark_clusters/string_pair_benchmark.tsv
+  corum_group_benchmark_fp: config/benchmark_clusters/corum_group_benchmark.tsv
+  kegg_group_benchmark_fp: config/benchmark_clusters/kegg_group_benchmark.tsv
