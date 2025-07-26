@@ -1,60 +1,56 @@
 # Screen Information
 experiment:
-  id: ""  # Experiment identifier
-  notebook_entries: ""  # Links or references to lab notebook entries
+  id: "denali"  # Experiment identifier (merged from 3 plates: Plate 1, Etna, Fuji)
+  notebook_entries: "KMM Expt13A (Plates 2 & 3)"  # Links or references to lab notebook entries
   dates: 
-    start: ""
-    end: ""
+    start: "2024-01"  # Plate 1 start
+    end: "2024-05-10"  # Plates 2&3 end
 
 # Cellular Conditions
 cellular:
-  cell_line: ""  # e.g., HeLa, HEK293, etc.
-  imaging_timepoint: ""  # When imaging occurred after treatment
+  cell_line: "Plate 1: cKC772 HeLa 5k essential gene library, Plates 2&3: cKC774 HeLa 5k essential gene library"
+  imaging_timepoint: "78 hours after DOX induction"
   treatment:
-    summary: ""  # Brief description of treatment
-    details: ""  # Detailed protocol or conditions
-  plates: ""  # Number of plates
-  wells_per_plate: ""  # Number of wells per plate
+    summary: "DOX induced 78 h, different seeding densities per plate"
+    details: "Plate 1: Seed 350k cells per well in 6-well plate 48 h before fixation. Plates 2&3: Seed 320k cells per well in 6-well plate 48 h before fixation"  # Detailed protocol or conditions
+  plates: "3"  # Number of plates
+  wells_per_plate: "6"  # Number of wells per plate
 
 # Sequencing by Synthesis (SBS)
 sbs:
-  cycles: ""  # Number of cycles
-  cycle_order: ""  # Order of cycles
-  background_channel: ""  # Suggested background channel
+  cycles: "11"  # Number of cycles
+  cycle_order: "GTAC"  # Order of cycles
+  background_channel: "C, cycle 11"  # Suggested background channel
   library_details:
-    number_of_genes: ""
-    guides_per_gene: ""
-    other_information: ""
+    number_of_genes: "5000"
+    guides_per_gene: "MISSING"
+    other_information: "Essential genes screening library. Plate 1 had fewer sequencing spots than expected. Plates 2&3 improved # of sequencing spots but CENP-A staining didn't look great"
 
 # Phenotype (PH) Steps
 phenotype:
-  background_channel_cell: ""  # For cell segmentation
-  background_channel_body: ""  # For body (e.g. parasite) segmentation
+  background_channel_cell: "WGA"  # For cell segmentation
+  background_channel_body: "MISSING"  # For body (e.g. parasite) segmentation
   
-  # Rounds of staining/imaging (in order they were stained for each round)
-  # Add more rounds as needed
+  # Rounds of staining/imaging (all stains in one round)
   rounds:
     - round_number: 1
       stains:
-        - name: "DAPI"  # Name of stain/antibody
-          marker_of: "Nuclei"  # What it marks
-          channel: "DAPI"  # Channel used (e.g., DAPI, CY3)
-        - name: "ConA"
-          marker_of: "Cytoplasm"
-          channel: "AF750"
-    
-    - round_number: 2
-      stains:
-        - name: ""  # Name of stain/antibody
-          marker_of: ""  # What it marks
-          channel: ""  # Channel used (e.g., DAPI, CY3)
-        - name: ""
-          marker_of: ""
-          channel: ""
+        - name: "DAPI"
+          marker_of: "Nuclei"
+          channel: "DAPI"
+        - name: "CENPA antibody"
+          marker_of: "Centromeric protein"
+          channel: "CENPA"
+        - name: "COXIV antibody"
+          marker_of: "Mitochondrial marker"
+          channel: "COXIV"
+        - name: "WGA"
+          marker_of: "Cell membrane/boundary"
+          channel: "WGA"
 
 # Data Generated
 data:
-  storage_format: ""  # e.g., .nd2, .tiff
-  location: "/lab/.."  # Base path for data storage
+  storage_format: "nd2"  # e.g., .nd2, .tiff
+  location: "/archive/cheeseman/brieflow_screens/denali"  # Base path for data storage
   
-  notes: ""  # Any additional notes about the data or file naming conventions
+  notes: "Part of 5000 essential genes screening library. 3 plates total: Plate 1 (KC, fewer sequencing spots), Plates 2&3 (KC and Kaitlyn, improved sequencing spots but poor CENP-A staining). Previously referred to as Etna and Fuji for plates 2&3 before merging"

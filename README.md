@@ -80,8 +80,8 @@ Use the following commands to set up the brieflow Conda environment (~10 min):
 # create and activate brieflow_SCREEN_NAME conda environment
 # NOTE: replace brieflow_SCREEN_NAME with the name of your screen to ensure a screen-specific installation
 # using this screen-specific installation will refer to library code in ./brieflow/workflow/lib
-conda create -n brieflow_denali_analysis_new -c conda-forge python=3.11 uv pip -y
-conda activate brieflow_denali_analysis_new
+conda create -n brieflow_denali_analysis -c conda-forge python=3.11 uv pip -y
+conda activate brieflow_denali_analysis
 # install external packages
 uv pip install -r pyproject.toml
 # install editable version of brieflow
@@ -110,7 +110,7 @@ Run the following commands to ensure your Brieflow is set up correctly:
 This will test Brieflow on a small limited subset of example data that we provide, and functions only with the main branch of Brieflow. This is **not** the optimal location for analyzing your data.
 ```sh
 # activate brieflow env
-conda activate brieflow_denali_analysis_new
+conda activate brieflow_denali_analysis
 # set up small test analysis
 cd brieflow/tests/small_test_analysis
 python small_test_analysis_setup.py
@@ -141,7 +141,7 @@ Use the following commands to enter this folder and activate the conda env:
 # enter analysis directory
 cd analysis/
 # activate brieflow_main_env conda environment
-conda activate brieflow_denali_analysis_new
+conda activate brieflow_denali_analysis
 ```
 
 ***Notes**: 
