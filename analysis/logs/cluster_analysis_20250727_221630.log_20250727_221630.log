@@ -1,0 +1,1327 @@
+2025-07-27 22:16:30,029 - INFO - Processing 414 clusters with model claude-3-7-sonnet-20250219
+2025-07-27 22:16:30,036 - INFO - Using Anthropic Claude API
+2025-07-27 22:16:47,970 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:16:47,975 - INFO - Success for cluster 0
+2025-07-27 22:16:47,977 - INFO - Using Anthropic Claude API
+2025-07-27 22:17:06,845 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:17:06,848 - INFO - Success for cluster 1
+2025-07-27 22:17:06,850 - INFO - Using Anthropic Claude API
+2025-07-27 22:17:34,402 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:17:34,404 - INFO - Success for cluster 2
+2025-07-27 22:17:34,406 - INFO - Using Anthropic Claude API
+2025-07-27 22:18:05,039 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:18:05,042 - INFO - Success for cluster 3
+2025-07-27 22:18:05,044 - INFO - Using Anthropic Claude API
+2025-07-27 22:18:49,777 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:18:49,780 - INFO - Success for cluster 4
+2025-07-27 22:18:49,808 - INFO - Saved progress for 5 clusters
+2025-07-27 22:18:49,811 - INFO - Using Anthropic Claude API
+2025-07-27 22:19:14,130 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:19:14,134 - INFO - Success for cluster 5
+2025-07-27 22:19:14,137 - INFO - Using Anthropic Claude API
+2025-07-27 22:19:34,513 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:19:34,516 - INFO - Success for cluster 6
+2025-07-27 22:19:34,518 - INFO - Using Anthropic Claude API
+2025-07-27 22:20:10,971 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:20:10,974 - INFO - Success for cluster 7
+2025-07-27 22:20:10,977 - INFO - Using Anthropic Claude API
+2025-07-27 22:20:27,906 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:20:27,910 - INFO - Success for cluster 8
+2025-07-27 22:20:27,912 - INFO - Using Anthropic Claude API
+2025-07-27 22:21:12,808 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:21:12,813 - INFO - Success for cluster 9
+2025-07-27 22:21:12,837 - INFO - Saved progress for 10 clusters
+2025-07-27 22:21:12,839 - INFO - Using Anthropic Claude API
+2025-07-27 22:21:31,913 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:21:31,916 - INFO - Success for cluster 10
+2025-07-27 22:21:31,920 - INFO - Using Anthropic Claude API
+2025-07-27 22:22:02,277 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:22:02,281 - INFO - Success for cluster 11
+2025-07-27 22:22:02,284 - INFO - Using Anthropic Claude API
+2025-07-27 22:22:15,860 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:22:15,864 - INFO - Success for cluster 12
+2025-07-27 22:22:15,868 - INFO - Using Anthropic Claude API
+2025-07-27 22:22:32,734 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:22:32,737 - INFO - Success for cluster 13
+2025-07-27 22:22:32,740 - INFO - Using Anthropic Claude API
+2025-07-27 22:23:13,531 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:23:13,536 - INFO - Success for cluster 14
+2025-07-27 22:23:13,570 - INFO - Saved progress for 15 clusters
+2025-07-27 22:23:13,573 - INFO - Using Anthropic Claude API
+2025-07-27 22:23:30,484 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:23:30,487 - INFO - Success for cluster 15
+2025-07-27 22:23:30,490 - INFO - Using Anthropic Claude API
+2025-07-27 22:24:00,581 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:24:00,584 - INFO - Success for cluster 16
+2025-07-27 22:24:00,587 - INFO - Using Anthropic Claude API
+2025-07-27 22:24:19,647 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:24:19,651 - INFO - Success for cluster 17
+2025-07-27 22:24:19,654 - INFO - Using Anthropic Claude API
+2025-07-27 22:24:59,449 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:24:59,452 - INFO - Success for cluster 18
+2025-07-27 22:24:59,454 - INFO - Using Anthropic Claude API
+2025-07-27 22:25:32,055 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:25:32,059 - INFO - Success for cluster 19
+2025-07-27 22:25:32,092 - INFO - Saved progress for 20 clusters
+2025-07-27 22:25:32,094 - INFO - Using Anthropic Claude API
+2025-07-27 22:25:50,122 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:25:50,126 - INFO - Success for cluster 20
+2025-07-27 22:25:50,131 - INFO - Using Anthropic Claude API
+2025-07-27 22:26:03,492 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:26:03,496 - INFO - Success for cluster 21
+2025-07-27 22:26:03,500 - INFO - Using Anthropic Claude API
+2025-07-27 22:26:33,627 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:26:33,631 - INFO - Success for cluster 22
+2025-07-27 22:26:33,634 - INFO - Using Anthropic Claude API
+2025-07-27 22:26:48,082 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:26:48,086 - INFO - Success for cluster 23
+2025-07-27 22:26:48,089 - INFO - Using Anthropic Claude API
+2025-07-27 22:27:04,729 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:27:04,733 - INFO - Success for cluster 24
+2025-07-27 22:27:04,779 - INFO - Saved progress for 25 clusters
+2025-07-27 22:27:04,781 - INFO - Using Anthropic Claude API
+2025-07-27 22:27:22,905 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:27:22,909 - INFO - Success for cluster 25
+2025-07-27 22:27:22,912 - INFO - Using Anthropic Claude API
+2025-07-27 22:27:38,835 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:27:38,840 - INFO - Success for cluster 26
+2025-07-27 22:27:38,843 - INFO - Using Anthropic Claude API
+2025-07-27 22:28:13,051 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:28:13,055 - INFO - Success for cluster 27
+2025-07-27 22:28:13,058 - INFO - Using Anthropic Claude API
+2025-07-27 22:28:27,453 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:28:27,456 - INFO - Success for cluster 28
+2025-07-27 22:28:27,460 - INFO - Using Anthropic Claude API
+2025-07-27 22:28:43,548 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:28:43,551 - INFO - Success for cluster 29
+2025-07-27 22:28:43,601 - INFO - Saved progress for 30 clusters
+2025-07-27 22:28:43,604 - INFO - Using Anthropic Claude API
+2025-07-27 22:29:02,736 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:29:02,740 - INFO - Success for cluster 30
+2025-07-27 22:29:02,743 - INFO - Using Anthropic Claude API
+2025-07-27 22:29:19,612 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:29:19,616 - INFO - Success for cluster 31
+2025-07-27 22:29:19,619 - INFO - Using Anthropic Claude API
+2025-07-27 22:29:54,798 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:29:54,801 - INFO - Success for cluster 32
+2025-07-27 22:29:54,804 - INFO - Using Anthropic Claude API
+2025-07-27 22:30:10,975 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:30:10,978 - INFO - Success for cluster 33
+2025-07-27 22:30:10,980 - INFO - Using Anthropic Claude API
+2025-07-27 22:30:25,829 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:30:25,833 - INFO - Success for cluster 34
+2025-07-27 22:30:25,880 - INFO - Saved progress for 35 clusters
+2025-07-27 22:30:25,882 - INFO - Using Anthropic Claude API
+2025-07-27 22:30:40,404 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:30:40,407 - INFO - Success for cluster 35
+2025-07-27 22:30:40,411 - INFO - Using Anthropic Claude API
+2025-07-27 22:31:24,745 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:31:24,749 - INFO - Success for cluster 36
+2025-07-27 22:31:24,752 - INFO - Using Anthropic Claude API
+2025-07-27 22:31:50,858 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:31:50,862 - INFO - Success for cluster 37
+2025-07-27 22:31:50,866 - INFO - Using Anthropic Claude API
+2025-07-27 22:32:12,659 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:32:12,663 - INFO - Success for cluster 38
+2025-07-27 22:32:12,666 - INFO - Using Anthropic Claude API
+2025-07-27 22:32:38,985 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:32:38,988 - INFO - Success for cluster 39
+2025-07-27 22:32:39,042 - INFO - Saved progress for 40 clusters
+2025-07-27 22:32:39,045 - INFO - Using Anthropic Claude API
+2025-07-27 22:33:01,473 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:33:01,476 - INFO - Success for cluster 40
+2025-07-27 22:33:01,479 - INFO - Using Anthropic Claude API
+2025-07-27 22:33:17,022 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:33:17,025 - INFO - Success for cluster 41
+2025-07-27 22:33:17,028 - INFO - Using Anthropic Claude API
+2025-07-27 22:33:31,902 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:33:31,905 - INFO - Success for cluster 42
+2025-07-27 22:33:31,909 - INFO - Using Anthropic Claude API
+2025-07-27 22:33:51,951 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:33:51,954 - INFO - Success for cluster 43
+2025-07-27 22:33:51,957 - INFO - Using Anthropic Claude API
+2025-07-27 22:34:10,091 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:34:10,095 - INFO - Success for cluster 44
+2025-07-27 22:34:10,154 - INFO - Saved progress for 45 clusters
+2025-07-27 22:34:10,156 - INFO - Using Anthropic Claude API
+2025-07-27 22:34:26,763 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:34:26,766 - INFO - Success for cluster 45
+2025-07-27 22:34:26,769 - INFO - Using Anthropic Claude API
+2025-07-27 22:34:42,567 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:34:42,571 - INFO - Success for cluster 46
+2025-07-27 22:34:42,574 - INFO - Using Anthropic Claude API
+2025-07-27 22:34:59,310 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:34:59,313 - INFO - Success for cluster 47
+2025-07-27 22:34:59,316 - INFO - Using Anthropic Claude API
+2025-07-27 22:35:15,317 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:35:15,321 - INFO - Success for cluster 48
+2025-07-27 22:35:15,324 - INFO - Using Anthropic Claude API
+2025-07-27 22:35:37,697 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:35:37,700 - INFO - Success for cluster 49
+2025-07-27 22:35:37,762 - INFO - Saved progress for 50 clusters
+2025-07-27 22:35:37,765 - INFO - Using Anthropic Claude API
+2025-07-27 22:35:54,001 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:35:54,004 - INFO - Success for cluster 50
+2025-07-27 22:35:54,007 - INFO - Using Anthropic Claude API
+2025-07-27 22:36:06,646 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:36:06,650 - INFO - Success for cluster 51
+2025-07-27 22:36:06,652 - INFO - Using Anthropic Claude API
+2025-07-27 22:36:22,731 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:36:22,735 - INFO - Success for cluster 52
+2025-07-27 22:36:22,738 - INFO - Using Anthropic Claude API
+2025-07-27 22:36:44,313 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:36:44,316 - INFO - Success for cluster 53
+2025-07-27 22:36:44,319 - INFO - Using Anthropic Claude API
+2025-07-27 22:37:02,401 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:37:02,404 - INFO - Success for cluster 54
+2025-07-27 22:37:02,464 - INFO - Saved progress for 55 clusters
+2025-07-27 22:37:02,466 - INFO - Using Anthropic Claude API
+2025-07-27 22:37:20,535 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:37:20,539 - INFO - Success for cluster 55
+2025-07-27 22:37:20,542 - INFO - Using Anthropic Claude API
+2025-07-27 22:37:35,280 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:37:35,284 - INFO - Success for cluster 56
+2025-07-27 22:37:35,286 - INFO - Using Anthropic Claude API
+2025-07-27 22:37:46,756 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:37:46,759 - INFO - Success for cluster 57
+2025-07-27 22:37:46,763 - INFO - Using Anthropic Claude API
+2025-07-27 22:38:07,752 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:38:07,755 - INFO - Success for cluster 58
+2025-07-27 22:38:07,757 - INFO - Using Anthropic Claude API
+2025-07-27 22:38:29,657 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:38:29,661 - INFO - Success for cluster 59
+2025-07-27 22:38:29,741 - INFO - Saved progress for 60 clusters
+2025-07-27 22:38:29,743 - INFO - Using Anthropic Claude API
+2025-07-27 22:38:49,182 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:38:49,185 - INFO - Success for cluster 60
+2025-07-27 22:38:49,188 - INFO - Using Anthropic Claude API
+2025-07-27 22:39:07,948 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:39:07,952 - INFO - Success for cluster 61
+2025-07-27 22:39:07,955 - INFO - Using Anthropic Claude API
+2025-07-27 22:39:18,688 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:39:18,691 - INFO - Success for cluster 62
+2025-07-27 22:39:18,694 - INFO - Using Anthropic Claude API
+2025-07-27 22:39:30,806 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:39:30,809 - INFO - Success for cluster 63
+2025-07-27 22:39:30,813 - INFO - Using Anthropic Claude API
+2025-07-27 22:39:45,861 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:39:45,865 - INFO - Success for cluster 64
+2025-07-27 22:39:45,955 - INFO - Saved progress for 65 clusters
+2025-07-27 22:39:45,958 - INFO - Using Anthropic Claude API
+2025-07-27 22:40:01,245 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:40:01,249 - INFO - Success for cluster 65
+2025-07-27 22:40:01,252 - INFO - Using Anthropic Claude API
+2025-07-27 22:40:14,490 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:40:14,493 - INFO - Success for cluster 66
+2025-07-27 22:40:14,496 - INFO - Using Anthropic Claude API
+2025-07-27 22:40:30,448 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:40:30,452 - INFO - Success for cluster 67
+2025-07-27 22:40:30,454 - INFO - Using Anthropic Claude API
+2025-07-27 22:40:39,149 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:40:39,153 - INFO - Success for cluster 68
+2025-07-27 22:40:39,156 - INFO - Using Anthropic Claude API
+2025-07-27 22:40:53,494 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:40:53,497 - INFO - Success for cluster 69
+2025-07-27 22:40:53,585 - INFO - Saved progress for 70 clusters
+2025-07-27 22:40:53,588 - INFO - Using Anthropic Claude API
+2025-07-27 22:41:06,942 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:41:06,945 - INFO - Success for cluster 70
+2025-07-27 22:41:06,948 - INFO - Using Anthropic Claude API
+2025-07-27 22:41:22,541 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:41:22,545 - INFO - Success for cluster 71
+2025-07-27 22:41:22,548 - INFO - Using Anthropic Claude API
+2025-07-27 22:41:38,686 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:41:38,689 - INFO - Success for cluster 72
+2025-07-27 22:41:38,691 - INFO - Using Anthropic Claude API
+2025-07-27 22:41:56,366 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:41:56,369 - INFO - Success for cluster 73
+2025-07-27 22:41:56,372 - INFO - Using Anthropic Claude API
+2025-07-27 22:42:05,011 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:42:05,014 - INFO - Success for cluster 74
+2025-07-27 22:42:05,104 - INFO - Saved progress for 75 clusters
+2025-07-27 22:42:05,107 - INFO - Using Anthropic Claude API
+2025-07-27 22:42:18,935 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:42:18,939 - INFO - Success for cluster 75
+2025-07-27 22:42:18,942 - INFO - Using Anthropic Claude API
+2025-07-27 22:42:31,953 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:42:31,957 - INFO - Success for cluster 76
+2025-07-27 22:42:31,960 - INFO - Using Anthropic Claude API
+2025-07-27 22:42:44,568 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:42:44,571 - INFO - Success for cluster 77
+2025-07-27 22:42:44,574 - INFO - Using Anthropic Claude API
+2025-07-27 22:42:59,613 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:42:59,616 - INFO - Success for cluster 78
+2025-07-27 22:42:59,619 - INFO - Using Anthropic Claude API
+2025-07-27 22:43:14,755 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:43:14,759 - INFO - Success for cluster 79
+2025-07-27 22:43:14,829 - INFO - Saved progress for 80 clusters
+2025-07-27 22:43:14,832 - INFO - Using Anthropic Claude API
+2025-07-27 22:43:29,680 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:43:29,684 - INFO - Success for cluster 80
+2025-07-27 22:43:29,686 - INFO - Using Anthropic Claude API
+2025-07-27 22:43:50,715 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:43:50,718 - INFO - Success for cluster 81
+2025-07-27 22:43:50,721 - INFO - Using Anthropic Claude API
+2025-07-27 22:44:05,195 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:44:05,199 - INFO - Success for cluster 82
+2025-07-27 22:44:05,202 - INFO - Using Anthropic Claude API
+2025-07-27 22:44:17,833 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:44:17,836 - INFO - Success for cluster 83
+2025-07-27 22:44:17,839 - INFO - Using Anthropic Claude API
+2025-07-27 22:44:29,771 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:44:29,775 - INFO - Success for cluster 84
+2025-07-27 22:44:29,849 - INFO - Saved progress for 85 clusters
+2025-07-27 22:44:29,851 - INFO - Using Anthropic Claude API
+2025-07-27 22:44:43,325 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:44:43,328 - INFO - Success for cluster 85
+2025-07-27 22:44:43,331 - INFO - Using Anthropic Claude API
+2025-07-27 22:44:56,315 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:44:56,319 - INFO - Success for cluster 86
+2025-07-27 22:44:56,322 - INFO - Using Anthropic Claude API
+2025-07-27 22:45:13,206 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:45:13,209 - INFO - Success for cluster 87
+2025-07-27 22:45:13,212 - INFO - Using Anthropic Claude API
+2025-07-27 22:45:27,247 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:45:27,251 - INFO - Success for cluster 88
+2025-07-27 22:45:27,254 - INFO - Using Anthropic Claude API
+2025-07-27 22:45:43,823 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:45:43,827 - INFO - Success for cluster 89
+2025-07-27 22:45:43,899 - INFO - Saved progress for 90 clusters
+2025-07-27 22:45:43,903 - INFO - Using Anthropic Claude API
+2025-07-27 22:46:04,225 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:46:04,229 - INFO - Success for cluster 90
+2025-07-27 22:46:04,231 - INFO - Using Anthropic Claude API
+2025-07-27 22:46:18,391 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:46:18,394 - INFO - Success for cluster 91
+2025-07-27 22:46:18,397 - INFO - Using Anthropic Claude API
+2025-07-27 22:46:30,542 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:46:30,545 - INFO - Success for cluster 92
+2025-07-27 22:46:30,548 - INFO - Using Anthropic Claude API
+2025-07-27 22:46:44,289 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:46:44,292 - INFO - Success for cluster 93
+2025-07-27 22:46:44,295 - INFO - Using Anthropic Claude API
+2025-07-27 22:46:57,397 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:46:57,400 - INFO - Success for cluster 94
+2025-07-27 22:46:57,475 - INFO - Saved progress for 95 clusters
+2025-07-27 22:46:57,477 - INFO - Using Anthropic Claude API
+2025-07-27 22:47:10,863 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:47:10,866 - INFO - Success for cluster 95
+2025-07-27 22:47:10,869 - INFO - Using Anthropic Claude API
+2025-07-27 22:47:23,974 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:47:23,977 - INFO - Success for cluster 96
+2025-07-27 22:47:23,980 - INFO - Using Anthropic Claude API
+2025-07-27 22:47:37,349 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:47:37,353 - INFO - Success for cluster 97
+2025-07-27 22:47:37,356 - INFO - Using Anthropic Claude API
+2025-07-27 22:47:52,556 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:47:52,561 - INFO - Success for cluster 98
+2025-07-27 22:47:52,569 - INFO - Using Anthropic Claude API
+2025-07-27 22:48:01,183 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:48:01,187 - INFO - Success for cluster 99
+2025-07-27 22:48:01,273 - INFO - Saved progress for 100 clusters
+2025-07-27 22:48:01,276 - INFO - Using Anthropic Claude API
+2025-07-27 22:48:15,653 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:48:15,656 - INFO - Success for cluster 100
+2025-07-27 22:48:15,659 - INFO - Using Anthropic Claude API
+2025-07-27 22:48:27,033 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:48:27,037 - INFO - Success for cluster 101
+2025-07-27 22:48:27,039 - INFO - Using Anthropic Claude API
+2025-07-27 22:48:40,625 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:48:40,629 - INFO - Success for cluster 102
+2025-07-27 22:48:40,631 - INFO - Using Anthropic Claude API
+2025-07-27 22:48:55,814 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:48:55,817 - INFO - Success for cluster 103
+2025-07-27 22:48:55,820 - INFO - Using Anthropic Claude API
+2025-07-27 22:49:15,819 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:49:15,822 - INFO - Success for cluster 104
+2025-07-27 22:49:15,907 - INFO - Saved progress for 105 clusters
+2025-07-27 22:49:15,910 - INFO - Using Anthropic Claude API
+2025-07-27 22:49:24,145 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:49:24,148 - INFO - Success for cluster 105
+2025-07-27 22:49:24,151 - INFO - Using Anthropic Claude API
+2025-07-27 22:49:40,595 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:49:40,599 - INFO - Success for cluster 106
+2025-07-27 22:49:40,602 - INFO - Using Anthropic Claude API
+2025-07-27 22:49:56,527 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:49:56,531 - INFO - Success for cluster 107
+2025-07-27 22:49:56,533 - INFO - Using Anthropic Claude API
+2025-07-27 22:50:09,513 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:50:09,516 - INFO - Success for cluster 108
+2025-07-27 22:50:09,518 - INFO - Using Anthropic Claude API
+2025-07-27 22:50:31,341 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:50:31,345 - INFO - Success for cluster 109
+2025-07-27 22:50:31,473 - INFO - Saved progress for 110 clusters
+2025-07-27 22:50:31,475 - INFO - Using Anthropic Claude API
+2025-07-27 22:50:45,526 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:50:45,529 - INFO - Success for cluster 110
+2025-07-27 22:50:45,532 - INFO - Using Anthropic Claude API
+2025-07-27 22:51:07,918 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:51:07,922 - INFO - Success for cluster 111
+2025-07-27 22:51:07,925 - INFO - Using Anthropic Claude API
+2025-07-27 22:51:22,007 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:51:22,010 - INFO - Success for cluster 112
+2025-07-27 22:51:22,013 - INFO - Using Anthropic Claude API
+2025-07-27 22:51:36,315 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:51:36,318 - INFO - Success for cluster 113
+2025-07-27 22:51:36,321 - INFO - Using Anthropic Claude API
+2025-07-27 22:51:54,398 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:51:54,402 - INFO - Success for cluster 114
+2025-07-27 22:51:54,482 - INFO - Saved progress for 115 clusters
+2025-07-27 22:51:54,485 - INFO - Using Anthropic Claude API
+2025-07-27 22:52:09,320 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:52:09,324 - INFO - Success for cluster 115
+2025-07-27 22:52:09,327 - INFO - Using Anthropic Claude API
+2025-07-27 22:52:24,383 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:52:24,386 - INFO - Success for cluster 116
+2025-07-27 22:52:24,389 - INFO - Using Anthropic Claude API
+2025-07-27 22:52:38,680 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:52:38,683 - INFO - Success for cluster 117
+2025-07-27 22:52:38,686 - INFO - Using Anthropic Claude API
+2025-07-27 22:52:50,226 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:52:50,230 - INFO - Success for cluster 118
+2025-07-27 22:52:50,233 - INFO - Using Anthropic Claude API
+2025-07-27 22:53:07,409 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:53:07,412 - INFO - Success for cluster 119
+2025-07-27 22:53:07,498 - INFO - Saved progress for 120 clusters
+2025-07-27 22:53:07,500 - INFO - Using Anthropic Claude API
+2025-07-27 22:53:18,090 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:53:18,094 - INFO - Success for cluster 120
+2025-07-27 22:53:18,097 - INFO - Using Anthropic Claude API
+2025-07-27 22:53:28,575 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:53:28,578 - INFO - Success for cluster 121
+2025-07-27 22:53:28,581 - INFO - Using Anthropic Claude API
+2025-07-27 22:53:40,492 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:53:40,495 - INFO - Success for cluster 122
+2025-07-27 22:53:40,498 - INFO - Using Anthropic Claude API
+2025-07-27 22:53:54,495 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:53:54,498 - INFO - Success for cluster 123
+2025-07-27 22:53:54,501 - INFO - Using Anthropic Claude API
+2025-07-27 22:54:09,648 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:54:09,651 - INFO - Success for cluster 124
+2025-07-27 22:54:09,738 - INFO - Saved progress for 125 clusters
+2025-07-27 22:54:09,740 - INFO - Using Anthropic Claude API
+2025-07-27 22:54:23,293 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:54:23,297 - INFO - Success for cluster 125
+2025-07-27 22:54:23,301 - INFO - Using Anthropic Claude API
+2025-07-27 22:54:44,785 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:54:44,789 - INFO - Success for cluster 126
+2025-07-27 22:54:44,792 - INFO - Using Anthropic Claude API
+2025-07-27 22:55:00,217 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:55:00,221 - INFO - Success for cluster 127
+2025-07-27 22:55:00,223 - INFO - Using Anthropic Claude API
+2025-07-27 22:55:19,207 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:55:19,210 - INFO - Success for cluster 128
+2025-07-27 22:55:19,213 - INFO - Using Anthropic Claude API
+2025-07-27 22:55:39,122 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:55:39,126 - INFO - Success for cluster 129
+2025-07-27 22:55:39,259 - INFO - Saved progress for 130 clusters
+2025-07-27 22:55:39,261 - INFO - Using Anthropic Claude API
+2025-07-27 22:55:53,566 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:55:53,570 - INFO - Success for cluster 130
+2025-07-27 22:55:53,573 - INFO - Using Anthropic Claude API
+2025-07-27 22:56:11,286 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:56:11,289 - INFO - Success for cluster 131
+2025-07-27 22:56:11,292 - INFO - Using Anthropic Claude API
+2025-07-27 22:56:24,569 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:56:24,572 - INFO - Success for cluster 132
+2025-07-27 22:56:24,575 - INFO - Using Anthropic Claude API
+2025-07-27 22:56:38,416 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:56:38,419 - INFO - Success for cluster 133
+2025-07-27 22:56:38,422 - INFO - Using Anthropic Claude API
+2025-07-27 22:56:56,346 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:56:56,350 - INFO - Success for cluster 134
+2025-07-27 22:56:56,481 - INFO - Saved progress for 135 clusters
+2025-07-27 22:56:56,484 - INFO - Using Anthropic Claude API
+2025-07-27 22:57:17,887 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:57:17,891 - INFO - Success for cluster 135
+2025-07-27 22:57:17,894 - INFO - Using Anthropic Claude API
+2025-07-27 22:57:35,060 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:57:35,063 - INFO - Success for cluster 136
+2025-07-27 22:57:35,066 - INFO - Using Anthropic Claude API
+2025-07-27 22:57:51,061 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:57:51,065 - INFO - Success for cluster 137
+2025-07-27 22:57:51,067 - INFO - Using Anthropic Claude API
+2025-07-27 22:58:05,166 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:58:05,169 - INFO - Success for cluster 138
+2025-07-27 22:58:05,172 - INFO - Using Anthropic Claude API
+2025-07-27 22:58:20,716 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:58:20,719 - INFO - Success for cluster 139
+2025-07-27 22:58:20,854 - INFO - Saved progress for 140 clusters
+2025-07-27 22:58:20,857 - INFO - Using Anthropic Claude API
+2025-07-27 22:58:34,960 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:58:34,963 - INFO - Success for cluster 140
+2025-07-27 22:58:34,967 - INFO - Using Anthropic Claude API
+2025-07-27 22:58:49,125 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:58:49,129 - INFO - Success for cluster 141
+2025-07-27 22:58:49,131 - INFO - Using Anthropic Claude API
+2025-07-27 22:59:03,532 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:59:03,536 - INFO - Success for cluster 142
+2025-07-27 22:59:03,538 - INFO - Using Anthropic Claude API
+2025-07-27 22:59:24,889 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:59:24,892 - INFO - Success for cluster 143
+2025-07-27 22:59:24,895 - INFO - Using Anthropic Claude API
+2025-07-27 22:59:44,314 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 22:59:44,318 - INFO - Success for cluster 144
+2025-07-27 22:59:44,457 - INFO - Saved progress for 145 clusters
+2025-07-27 22:59:44,461 - INFO - Using Anthropic Claude API
+2025-07-27 23:00:04,729 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:00:04,733 - INFO - Success for cluster 145
+2025-07-27 23:00:04,735 - INFO - Using Anthropic Claude API
+2025-07-27 23:00:14,730 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:00:14,733 - INFO - Success for cluster 146
+2025-07-27 23:00:14,736 - INFO - Using Anthropic Claude API
+2025-07-27 23:00:29,162 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:00:29,165 - INFO - Success for cluster 147
+2025-07-27 23:00:29,168 - INFO - Using Anthropic Claude API
+2025-07-27 23:00:43,694 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:00:43,697 - INFO - Success for cluster 148
+2025-07-27 23:00:43,700 - INFO - Using Anthropic Claude API
+2025-07-27 23:00:52,289 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:00:52,293 - INFO - Success for cluster 149
+2025-07-27 23:00:52,395 - INFO - Saved progress for 150 clusters
+2025-07-27 23:00:52,397 - INFO - Using Anthropic Claude API
+2025-07-27 23:01:11,849 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:01:11,853 - INFO - Success for cluster 150
+2025-07-27 23:01:11,855 - INFO - Using Anthropic Claude API
+2025-07-27 23:01:25,247 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:01:25,250 - INFO - Success for cluster 151
+2025-07-27 23:01:25,253 - INFO - Using Anthropic Claude API
+2025-07-27 23:01:38,642 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:01:38,646 - INFO - Success for cluster 152
+2025-07-27 23:01:38,649 - INFO - Using Anthropic Claude API
+2025-07-27 23:01:52,142 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:01:52,146 - INFO - Success for cluster 153
+2025-07-27 23:01:52,149 - INFO - Using Anthropic Claude API
+2025-07-27 23:02:08,354 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:02:08,357 - INFO - Success for cluster 154
+2025-07-27 23:02:08,523 - INFO - Saved progress for 155 clusters
+2025-07-27 23:02:08,526 - INFO - Using Anthropic Claude API
+2025-07-27 23:02:24,446 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:02:24,450 - INFO - Success for cluster 155
+2025-07-27 23:02:24,453 - INFO - Using Anthropic Claude API
+2025-07-27 23:02:40,116 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:02:40,120 - INFO - Success for cluster 156
+2025-07-27 23:02:40,122 - INFO - Using Anthropic Claude API
+2025-07-27 23:02:59,900 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:02:59,904 - INFO - Success for cluster 157
+2025-07-27 23:02:59,906 - INFO - Using Anthropic Claude API
+2025-07-27 23:03:11,582 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:03:11,586 - INFO - Success for cluster 158
+2025-07-27 23:03:11,589 - INFO - Using Anthropic Claude API
+2025-07-27 23:03:23,404 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:03:23,407 - INFO - Success for cluster 159
+2025-07-27 23:03:23,514 - INFO - Saved progress for 160 clusters
+2025-07-27 23:03:23,517 - INFO - Using Anthropic Claude API
+2025-07-27 23:03:34,045 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:03:34,048 - INFO - Success for cluster 160
+2025-07-27 23:03:34,051 - INFO - Using Anthropic Claude API
+2025-07-27 23:03:51,356 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:03:51,360 - INFO - Success for cluster 161
+2025-07-27 23:03:51,363 - INFO - Using Anthropic Claude API
+2025-07-27 23:04:02,491 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:04:02,495 - INFO - Success for cluster 162
+2025-07-27 23:04:02,497 - INFO - Using Anthropic Claude API
+2025-07-27 23:04:18,801 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:04:18,805 - INFO - Success for cluster 163
+2025-07-27 23:04:18,807 - INFO - Using Anthropic Claude API
+2025-07-27 23:04:31,468 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:04:31,471 - INFO - Success for cluster 164
+2025-07-27 23:04:31,624 - INFO - Saved progress for 165 clusters
+2025-07-27 23:04:31,627 - INFO - Using Anthropic Claude API
+2025-07-27 23:04:48,480 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:04:48,483 - INFO - Success for cluster 165
+2025-07-27 23:04:48,486 - INFO - Using Anthropic Claude API
+2025-07-27 23:05:04,819 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:05:04,822 - INFO - Success for cluster 166
+2025-07-27 23:05:04,824 - INFO - Using Anthropic Claude API
+2025-07-27 23:05:17,363 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:05:17,366 - INFO - Success for cluster 167
+2025-07-27 23:05:17,369 - INFO - Using Anthropic Claude API
+2025-07-27 23:05:31,939 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:05:31,942 - INFO - Success for cluster 168
+2025-07-27 23:05:31,944 - INFO - Using Anthropic Claude API
+2025-07-27 23:05:49,539 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:05:49,542 - INFO - Success for cluster 169
+2025-07-27 23:05:49,703 - INFO - Saved progress for 170 clusters
+2025-07-27 23:05:49,706 - INFO - Using Anthropic Claude API
+2025-07-27 23:06:02,591 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:06:02,594 - INFO - Success for cluster 170
+2025-07-27 23:06:02,596 - INFO - Using Anthropic Claude API
+2025-07-27 23:06:19,929 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:06:19,932 - INFO - Success for cluster 171
+2025-07-27 23:06:19,936 - INFO - Using Anthropic Claude API
+2025-07-27 23:06:33,796 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:06:33,870 - INFO - Success for cluster 172
+2025-07-27 23:06:33,873 - INFO - Using Anthropic Claude API
+2025-07-27 23:06:52,327 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:06:52,330 - INFO - Success for cluster 173
+2025-07-27 23:06:52,333 - INFO - Using Anthropic Claude API
+2025-07-27 23:07:03,008 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:07:03,105 - INFO - Success for cluster 174
+2025-07-27 23:07:03,986 - INFO - Saved progress for 175 clusters
+2025-07-27 23:07:03,989 - INFO - Using Anthropic Claude API
+2025-07-27 23:07:18,281 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:07:18,284 - INFO - Success for cluster 175
+2025-07-27 23:07:18,287 - INFO - Using Anthropic Claude API
+2025-07-27 23:07:29,695 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:07:29,698 - INFO - Success for cluster 176
+2025-07-27 23:07:29,702 - INFO - Using Anthropic Claude API
+2025-07-27 23:07:45,382 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:07:45,474 - INFO - Success for cluster 177
+2025-07-27 23:07:45,477 - INFO - Using Anthropic Claude API
+2025-07-27 23:07:58,704 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:07:58,707 - INFO - Success for cluster 178
+2025-07-27 23:07:58,710 - INFO - Using Anthropic Claude API
+2025-07-27 23:08:13,996 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:08:14,447 - INFO - Success for cluster 179
+2025-07-27 23:08:15,146 - INFO - Saved progress for 180 clusters
+2025-07-27 23:08:15,150 - INFO - Using Anthropic Claude API
+2025-07-27 23:08:28,420 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:08:28,423 - INFO - Success for cluster 180
+2025-07-27 23:08:28,425 - INFO - Using Anthropic Claude API
+2025-07-27 23:08:38,915 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:08:39,077 - INFO - Success for cluster 181
+2025-07-27 23:08:39,080 - INFO - Using Anthropic Claude API
+2025-07-27 23:08:56,856 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:08:56,859 - INFO - Success for cluster 182
+2025-07-27 23:08:56,862 - INFO - Using Anthropic Claude API
+2025-07-27 23:09:14,331 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:09:14,469 - INFO - Success for cluster 183
+2025-07-27 23:09:14,472 - INFO - Using Anthropic Claude API
+2025-07-27 23:09:27,871 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:09:27,874 - INFO - Success for cluster 184
+2025-07-27 23:09:27,994 - INFO - Saved progress for 185 clusters
+2025-07-27 23:09:27,997 - INFO - Using Anthropic Claude API
+2025-07-27 23:09:40,595 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:09:40,708 - INFO - Success for cluster 185
+2025-07-27 23:09:40,711 - INFO - Using Anthropic Claude API
+2025-07-27 23:09:54,294 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:09:57,559 - INFO - Success for cluster 186
+2025-07-27 23:09:57,562 - INFO - Using Anthropic Claude API
+2025-07-27 23:10:12,613 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:10:12,715 - INFO - Success for cluster 187
+2025-07-27 23:10:12,717 - INFO - Using Anthropic Claude API
+2025-07-27 23:10:25,117 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:10:25,248 - INFO - Success for cluster 188
+2025-07-27 23:10:25,251 - INFO - Using Anthropic Claude API
+2025-07-27 23:10:41,201 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:10:41,204 - INFO - Success for cluster 189
+2025-07-27 23:10:41,327 - INFO - Saved progress for 190 clusters
+2025-07-27 23:10:41,329 - INFO - Using Anthropic Claude API
+2025-07-27 23:10:51,201 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:10:51,287 - INFO - Success for cluster 190
+2025-07-27 23:10:51,290 - INFO - Using Anthropic Claude API
+2025-07-27 23:11:07,014 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:11:07,017 - INFO - Success for cluster 191
+2025-07-27 23:11:07,019 - INFO - Using Anthropic Claude API
+2025-07-27 23:11:19,697 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:11:19,795 - INFO - Success for cluster 192
+2025-07-27 23:11:19,799 - INFO - Using Anthropic Claude API
+2025-07-27 23:11:36,533 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:11:36,537 - INFO - Success for cluster 193
+2025-07-27 23:11:36,539 - INFO - Using Anthropic Claude API
+2025-07-27 23:11:53,153 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:11:53,250 - INFO - Success for cluster 194
+2025-07-27 23:11:54,164 - INFO - Saved progress for 195 clusters
+2025-07-27 23:11:54,167 - INFO - Using Anthropic Claude API
+2025-07-27 23:12:06,730 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:12:06,733 - INFO - Success for cluster 195
+2025-07-27 23:12:06,736 - INFO - Using Anthropic Claude API
+2025-07-27 23:12:22,619 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:12:22,723 - INFO - Success for cluster 196
+2025-07-27 23:12:22,726 - INFO - Using Anthropic Claude API
+2025-07-27 23:12:34,550 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:12:34,631 - INFO - Success for cluster 197
+2025-07-27 23:12:34,634 - INFO - Using Anthropic Claude API
+2025-07-27 23:12:53,653 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:12:53,656 - INFO - Success for cluster 198
+2025-07-27 23:12:53,660 - INFO - Using Anthropic Claude API
+2025-07-27 23:13:10,334 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:13:10,338 - INFO - Success for cluster 199
+2025-07-27 23:13:10,531 - INFO - Saved progress for 200 clusters
+2025-07-27 23:13:10,533 - INFO - Using Anthropic Claude API
+2025-07-27 23:13:24,879 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:13:24,882 - INFO - Success for cluster 200
+2025-07-27 23:13:24,885 - INFO - Using Anthropic Claude API
+2025-07-27 23:13:38,901 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:13:38,989 - INFO - Success for cluster 201
+2025-07-27 23:13:38,992 - INFO - Using Anthropic Claude API
+2025-07-27 23:13:47,030 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:13:47,131 - INFO - Success for cluster 202
+2025-07-27 23:13:47,134 - INFO - Using Anthropic Claude API
+2025-07-27 23:14:04,191 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:14:04,195 - INFO - Success for cluster 203
+2025-07-27 23:14:04,199 - INFO - Using Anthropic Claude API
+2025-07-27 23:14:18,526 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:14:18,529 - INFO - Success for cluster 204
+2025-07-27 23:14:18,658 - INFO - Saved progress for 205 clusters
+2025-07-27 23:14:18,660 - INFO - Using Anthropic Claude API
+2025-07-27 23:14:34,975 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:14:34,978 - INFO - Success for cluster 205
+2025-07-27 23:14:34,981 - INFO - Using Anthropic Claude API
+2025-07-27 23:14:54,190 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:14:54,268 - INFO - Success for cluster 206
+2025-07-27 23:14:54,272 - INFO - Using Anthropic Claude API
+2025-07-27 23:15:09,537 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:15:09,540 - INFO - Success for cluster 207
+2025-07-27 23:15:09,543 - INFO - Using Anthropic Claude API
+2025-07-27 23:15:26,379 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:15:26,644 - INFO - Success for cluster 208
+2025-07-27 23:15:26,646 - INFO - Using Anthropic Claude API
+2025-07-27 23:15:39,405 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:15:39,528 - INFO - Success for cluster 209
+2025-07-27 23:15:40,762 - INFO - Saved progress for 210 clusters
+2025-07-27 23:15:40,765 - INFO - Using Anthropic Claude API
+2025-07-27 23:15:59,182 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:15:59,275 - INFO - Success for cluster 210
+2025-07-27 23:15:59,278 - INFO - Using Anthropic Claude API
+2025-07-27 23:16:16,097 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:16:16,179 - INFO - Success for cluster 211
+2025-07-27 23:16:16,182 - INFO - Using Anthropic Claude API
+2025-07-27 23:16:32,983 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:16:32,986 - INFO - Success for cluster 212
+2025-07-27 23:16:32,989 - INFO - Using Anthropic Claude API
+2025-07-27 23:16:42,115 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:16:42,118 - INFO - Success for cluster 213
+2025-07-27 23:16:42,121 - INFO - Using Anthropic Claude API
+2025-07-27 23:16:56,559 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:16:56,642 - INFO - Success for cluster 214
+2025-07-27 23:16:57,271 - INFO - Saved progress for 215 clusters
+2025-07-27 23:16:57,274 - INFO - Using Anthropic Claude API
+2025-07-27 23:17:14,256 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:17:14,332 - INFO - Success for cluster 215
+2025-07-27 23:17:14,335 - INFO - Using Anthropic Claude API
+2025-07-27 23:17:26,372 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:17:26,376 - INFO - Success for cluster 216
+2025-07-27 23:17:26,380 - INFO - Using Anthropic Claude API
+2025-07-27 23:17:40,807 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:17:40,810 - INFO - Success for cluster 217
+2025-07-27 23:17:40,813 - INFO - Using Anthropic Claude API
+2025-07-27 23:17:52,684 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:17:52,686 - INFO - Success for cluster 218
+2025-07-27 23:17:52,689 - INFO - Using Anthropic Claude API
+2025-07-27 23:18:05,162 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:18:05,251 - INFO - Success for cluster 219
+2025-07-27 23:18:06,142 - INFO - Saved progress for 220 clusters
+2025-07-27 23:18:06,146 - INFO - Using Anthropic Claude API
+2025-07-27 23:18:20,171 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:18:20,174 - INFO - Success for cluster 220
+2025-07-27 23:18:20,177 - INFO - Using Anthropic Claude API
+2025-07-27 23:18:40,223 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:18:40,316 - INFO - Success for cluster 221
+2025-07-27 23:18:40,319 - INFO - Using Anthropic Claude API
+2025-07-27 23:18:52,782 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:18:52,897 - INFO - Success for cluster 222
+2025-07-27 23:18:52,900 - INFO - Using Anthropic Claude API
+2025-07-27 23:19:06,086 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:19:06,089 - INFO - Success for cluster 223
+2025-07-27 23:19:06,091 - INFO - Using Anthropic Claude API
+2025-07-27 23:19:19,044 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:19:19,047 - INFO - Success for cluster 224
+2025-07-27 23:19:19,267 - INFO - Saved progress for 225 clusters
+2025-07-27 23:19:19,270 - INFO - Using Anthropic Claude API
+2025-07-27 23:19:31,155 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:19:31,159 - INFO - Success for cluster 225
+2025-07-27 23:19:31,162 - INFO - Using Anthropic Claude API
+2025-07-27 23:19:42,136 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:19:42,139 - INFO - Success for cluster 226
+2025-07-27 23:19:42,141 - INFO - Using Anthropic Claude API
+2025-07-27 23:20:00,301 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:20:00,305 - INFO - Success for cluster 227
+2025-07-27 23:20:00,307 - INFO - Using Anthropic Claude API
+2025-07-27 23:20:16,986 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:20:16,990 - INFO - Success for cluster 228
+2025-07-27 23:20:16,993 - INFO - Using Anthropic Claude API
+2025-07-27 23:20:38,391 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:20:38,394 - INFO - Success for cluster 229
+2025-07-27 23:20:38,546 - INFO - Saved progress for 230 clusters
+2025-07-27 23:20:38,549 - INFO - Using Anthropic Claude API
+2025-07-27 23:20:51,637 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:20:51,641 - INFO - Success for cluster 230
+2025-07-27 23:20:51,643 - INFO - Using Anthropic Claude API
+2025-07-27 23:21:00,737 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:21:00,741 - INFO - Success for cluster 231
+2025-07-27 23:21:00,743 - INFO - Using Anthropic Claude API
+2025-07-27 23:21:11,276 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:21:11,279 - INFO - Success for cluster 232
+2025-07-27 23:21:11,282 - INFO - Using Anthropic Claude API
+2025-07-27 23:21:27,946 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:21:27,950 - INFO - Success for cluster 233
+2025-07-27 23:21:27,952 - INFO - Using Anthropic Claude API
+2025-07-27 23:21:48,517 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:21:48,520 - INFO - Success for cluster 234
+2025-07-27 23:21:48,666 - INFO - Saved progress for 235 clusters
+2025-07-27 23:21:48,669 - INFO - Using Anthropic Claude API
+2025-07-27 23:21:55,090 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:21:55,093 - INFO - Success for cluster 235
+2025-07-27 23:21:55,097 - INFO - Using Anthropic Claude API
+2025-07-27 23:22:07,349 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:22:07,352 - INFO - Success for cluster 236
+2025-07-27 23:22:07,355 - INFO - Using Anthropic Claude API
+2025-07-27 23:22:25,405 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:22:25,409 - INFO - Success for cluster 237
+2025-07-27 23:22:25,412 - INFO - Using Anthropic Claude API
+2025-07-27 23:22:42,626 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:22:42,629 - INFO - Success for cluster 238
+2025-07-27 23:22:42,632 - INFO - Using Anthropic Claude API
+2025-07-27 23:22:57,368 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:22:57,372 - INFO - Success for cluster 239
+2025-07-27 23:22:57,509 - INFO - Saved progress for 240 clusters
+2025-07-27 23:22:57,512 - INFO - Using Anthropic Claude API
+2025-07-27 23:23:12,024 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:23:12,028 - INFO - Success for cluster 240
+2025-07-27 23:23:12,031 - INFO - Using Anthropic Claude API
+2025-07-27 23:23:19,425 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:23:19,428 - INFO - Success for cluster 241
+2025-07-27 23:23:19,431 - INFO - Using Anthropic Claude API
+2025-07-27 23:23:32,898 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:23:32,902 - INFO - Success for cluster 242
+2025-07-27 23:23:32,904 - INFO - Using Anthropic Claude API
+2025-07-27 23:23:51,600 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:23:51,603 - INFO - Success for cluster 243
+2025-07-27 23:23:51,606 - INFO - Using Anthropic Claude API
+2025-07-27 23:24:09,724 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:24:09,727 - INFO - Success for cluster 244
+2025-07-27 23:24:09,876 - INFO - Saved progress for 245 clusters
+2025-07-27 23:24:09,879 - INFO - Using Anthropic Claude API
+2025-07-27 23:24:51,277 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:24:51,281 - INFO - Success for cluster 245
+2025-07-27 23:24:51,283 - INFO - Using Anthropic Claude API
+2025-07-27 23:25:24,264 - ERROR - Attempt 1/3 failed: Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}
+2025-07-27 23:26:01,181 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:26:01,185 - INFO - Success for cluster 246
+2025-07-27 23:26:01,187 - INFO - Using Anthropic Claude API
+2025-07-27 23:26:12,074 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:26:12,077 - INFO - Success for cluster 247
+2025-07-27 23:26:12,079 - INFO - Using Anthropic Claude API
+2025-07-27 23:26:24,435 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:26:24,438 - INFO - Success for cluster 248
+2025-07-27 23:26:24,441 - INFO - Using Anthropic Claude API
+2025-07-27 23:26:38,005 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:26:38,009 - INFO - Success for cluster 249
+2025-07-27 23:26:38,190 - INFO - Saved progress for 250 clusters
+2025-07-27 23:26:38,193 - INFO - Using Anthropic Claude API
+2025-07-27 23:26:49,437 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:26:49,440 - INFO - Success for cluster 250
+2025-07-27 23:26:49,442 - INFO - Using Anthropic Claude API
+2025-07-27 23:27:02,105 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:27:02,108 - INFO - Success for cluster 251
+2025-07-27 23:27:02,111 - INFO - Using Anthropic Claude API
+2025-07-27 23:27:16,109 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:27:16,112 - INFO - Success for cluster 252
+2025-07-27 23:27:16,114 - INFO - Using Anthropic Claude API
+2025-07-27 23:27:32,019 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:27:32,023 - INFO - Success for cluster 253
+2025-07-27 23:27:32,025 - INFO - Using Anthropic Claude API
+2025-07-27 23:27:47,327 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:27:47,329 - INFO - Success for cluster 254
+2025-07-27 23:27:47,533 - INFO - Saved progress for 255 clusters
+2025-07-27 23:27:47,536 - INFO - Using Anthropic Claude API
+2025-07-27 23:28:00,979 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:28:00,982 - INFO - Success for cluster 255
+2025-07-27 23:28:00,985 - INFO - Using Anthropic Claude API
+2025-07-27 23:28:16,351 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:28:16,355 - INFO - Success for cluster 256
+2025-07-27 23:28:16,357 - INFO - Using Anthropic Claude API
+2025-07-27 23:28:31,400 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:28:31,403 - INFO - Success for cluster 257
+2025-07-27 23:28:31,406 - INFO - Using Anthropic Claude API
+2025-07-27 23:28:50,460 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:28:50,463 - INFO - Success for cluster 258
+2025-07-27 23:28:50,466 - INFO - Using Anthropic Claude API
+2025-07-27 23:29:04,674 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:29:04,677 - INFO - Success for cluster 259
+2025-07-27 23:29:05,206 - INFO - Saved progress for 260 clusters
+2025-07-27 23:29:05,209 - INFO - Using Anthropic Claude API
+2025-07-27 23:29:21,792 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:29:21,795 - INFO - Success for cluster 260
+2025-07-27 23:29:21,798 - INFO - Using Anthropic Claude API
+2025-07-27 23:29:36,773 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:29:36,777 - INFO - Success for cluster 261
+2025-07-27 23:29:36,779 - INFO - Using Anthropic Claude API
+2025-07-27 23:29:47,505 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:29:47,508 - INFO - Success for cluster 262
+2025-07-27 23:29:47,511 - INFO - Using Anthropic Claude API
+2025-07-27 23:30:02,094 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:30:02,097 - INFO - Success for cluster 263
+2025-07-27 23:30:02,100 - INFO - Using Anthropic Claude API
+2025-07-27 23:30:15,442 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:30:15,445 - INFO - Success for cluster 264
+2025-07-27 23:30:15,734 - INFO - Saved progress for 265 clusters
+2025-07-27 23:30:15,737 - INFO - Using Anthropic Claude API
+2025-07-27 23:30:34,689 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:30:34,692 - INFO - Success for cluster 265
+2025-07-27 23:30:34,694 - INFO - Using Anthropic Claude API
+2025-07-27 23:30:49,271 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:30:49,275 - INFO - Success for cluster 266
+2025-07-27 23:30:49,277 - INFO - Using Anthropic Claude API
+2025-07-27 23:31:01,097 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:31:01,100 - INFO - Success for cluster 267
+2025-07-27 23:31:01,103 - INFO - Using Anthropic Claude API
+2025-07-27 23:31:19,030 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:31:19,033 - INFO - Success for cluster 268
+2025-07-27 23:31:19,036 - INFO - Using Anthropic Claude API
+2025-07-27 23:31:25,174 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:31:25,177 - INFO - Success for cluster 269
+2025-07-27 23:31:25,370 - INFO - Saved progress for 270 clusters
+2025-07-27 23:31:25,372 - INFO - Using Anthropic Claude API
+2025-07-27 23:31:36,651 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:31:36,655 - INFO - Success for cluster 270
+2025-07-27 23:31:36,657 - INFO - Using Anthropic Claude API
+2025-07-27 23:31:48,966 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:31:48,969 - INFO - Success for cluster 271
+2025-07-27 23:31:48,972 - INFO - Using Anthropic Claude API
+2025-07-27 23:31:55,236 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:31:55,239 - INFO - Success for cluster 272
+2025-07-27 23:31:55,242 - INFO - Using Anthropic Claude API
+2025-07-27 23:32:11,136 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:32:11,139 - INFO - Success for cluster 273
+2025-07-27 23:32:11,142 - INFO - Using Anthropic Claude API
+2025-07-27 23:32:25,925 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:32:25,928 - INFO - Success for cluster 274
+2025-07-27 23:32:26,137 - INFO - Saved progress for 275 clusters
+2025-07-27 23:32:26,139 - INFO - Using Anthropic Claude API
+2025-07-27 23:32:38,152 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:32:38,155 - INFO - Success for cluster 275
+2025-07-27 23:32:38,159 - INFO - Using Anthropic Claude API
+2025-07-27 23:32:54,964 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:32:54,968 - INFO - Success for cluster 276
+2025-07-27 23:32:54,970 - INFO - Using Anthropic Claude API
+2025-07-27 23:33:13,622 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:33:13,625 - INFO - Success for cluster 277
+2025-07-27 23:33:13,628 - INFO - Using Anthropic Claude API
+2025-07-27 23:33:29,300 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:33:29,303 - INFO - Success for cluster 278
+2025-07-27 23:33:29,306 - INFO - Using Anthropic Claude API
+2025-07-27 23:33:41,843 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:33:41,847 - INFO - Success for cluster 279
+2025-07-27 23:33:42,004 - INFO - Saved progress for 280 clusters
+2025-07-27 23:33:42,006 - INFO - Using Anthropic Claude API
+2025-07-27 23:33:57,045 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:33:57,049 - INFO - Success for cluster 280
+2025-07-27 23:33:57,051 - INFO - Using Anthropic Claude API
+2025-07-27 23:34:07,903 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:34:07,906 - INFO - Success for cluster 281
+2025-07-27 23:34:07,909 - INFO - Using Anthropic Claude API
+2025-07-27 23:34:20,497 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:34:20,501 - INFO - Success for cluster 282
+2025-07-27 23:34:20,503 - INFO - Using Anthropic Claude API
+2025-07-27 23:34:35,070 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:34:35,073 - INFO - Success for cluster 283
+2025-07-27 23:34:35,075 - INFO - Using Anthropic Claude API
+2025-07-27 23:34:44,843 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:34:44,847 - INFO - Success for cluster 284
+2025-07-27 23:34:45,057 - INFO - Saved progress for 285 clusters
+2025-07-27 23:34:45,060 - INFO - Using Anthropic Claude API
+2025-07-27 23:35:00,014 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:35:00,018 - INFO - Success for cluster 285
+2025-07-27 23:35:00,020 - INFO - Using Anthropic Claude API
+2025-07-27 23:35:18,993 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:35:18,997 - INFO - Success for cluster 286
+2025-07-27 23:35:18,999 - INFO - Using Anthropic Claude API
+2025-07-27 23:35:34,038 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:35:34,041 - INFO - Success for cluster 287
+2025-07-27 23:35:34,044 - INFO - Using Anthropic Claude API
+2025-07-27 23:35:45,500 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:35:45,504 - INFO - Success for cluster 288
+2025-07-27 23:35:45,508 - INFO - Using Anthropic Claude API
+2025-07-27 23:36:01,068 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:36:01,071 - INFO - Success for cluster 289
+2025-07-27 23:36:01,283 - INFO - Saved progress for 290 clusters
+2025-07-27 23:36:01,285 - INFO - Using Anthropic Claude API
+2025-07-27 23:36:15,159 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:36:15,162 - INFO - Success for cluster 290
+2025-07-27 23:36:15,165 - INFO - Using Anthropic Claude API
+2025-07-27 23:36:27,007 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:36:27,011 - INFO - Success for cluster 291
+2025-07-27 23:36:27,015 - INFO - Using Anthropic Claude API
+2025-07-27 23:36:40,123 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:36:40,127 - INFO - Success for cluster 292
+2025-07-27 23:36:40,130 - INFO - Using Anthropic Claude API
+2025-07-27 23:36:54,321 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:36:54,326 - INFO - Success for cluster 293
+2025-07-27 23:36:54,328 - INFO - Using Anthropic Claude API
+2025-07-27 23:37:07,596 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:37:07,599 - INFO - Success for cluster 294
+2025-07-27 23:37:07,845 - INFO - Saved progress for 295 clusters
+2025-07-27 23:37:07,849 - INFO - Using Anthropic Claude API
+2025-07-27 23:37:22,538 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:37:22,541 - INFO - Success for cluster 295
+2025-07-27 23:37:22,544 - INFO - Using Anthropic Claude API
+2025-07-27 23:37:34,173 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:37:34,176 - INFO - Success for cluster 296
+2025-07-27 23:37:34,178 - INFO - Using Anthropic Claude API
+2025-07-27 23:37:49,860 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:37:49,864 - INFO - Success for cluster 297
+2025-07-27 23:37:49,867 - INFO - Using Anthropic Claude API
+2025-07-27 23:38:00,578 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:38:00,581 - INFO - Success for cluster 298
+2025-07-27 23:38:00,584 - INFO - Using Anthropic Claude API
+2025-07-27 23:38:12,280 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:38:12,283 - INFO - Success for cluster 299
+2025-07-27 23:38:12,448 - INFO - Saved progress for 300 clusters
+2025-07-27 23:38:12,450 - INFO - Using Anthropic Claude API
+2025-07-27 23:38:26,494 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:38:26,497 - INFO - Success for cluster 300
+2025-07-27 23:38:26,500 - INFO - Using Anthropic Claude API
+2025-07-27 23:38:40,884 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:38:40,887 - INFO - Success for cluster 301
+2025-07-27 23:38:40,889 - INFO - Using Anthropic Claude API
+2025-07-27 23:38:56,458 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:38:56,461 - INFO - Success for cluster 302
+2025-07-27 23:38:56,463 - INFO - Using Anthropic Claude API
+2025-07-27 23:39:09,351 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:39:09,355 - INFO - Success for cluster 303
+2025-07-27 23:39:09,358 - INFO - Using Anthropic Claude API
+2025-07-27 23:39:26,297 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:39:26,300 - INFO - Success for cluster 304
+2025-07-27 23:39:26,513 - INFO - Saved progress for 305 clusters
+2025-07-27 23:39:26,516 - INFO - Using Anthropic Claude API
+2025-07-27 23:39:40,154 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:39:40,158 - INFO - Success for cluster 305
+2025-07-27 23:39:40,161 - INFO - Using Anthropic Claude API
+2025-07-27 23:39:48,410 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:39:48,413 - INFO - Success for cluster 306
+2025-07-27 23:39:48,416 - INFO - Using Anthropic Claude API
+2025-07-27 23:40:00,348 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:40:00,351 - INFO - Success for cluster 307
+2025-07-27 23:40:00,355 - INFO - Using Anthropic Claude API
+2025-07-27 23:40:16,080 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:40:16,083 - INFO - Success for cluster 308
+2025-07-27 23:40:16,085 - INFO - Using Anthropic Claude API
+2025-07-27 23:40:21,547 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:40:21,550 - INFO - Success for cluster 309
+2025-07-27 23:40:21,987 - INFO - Saved progress for 310 clusters
+2025-07-27 23:40:21,990 - INFO - Using Anthropic Claude API
+2025-07-27 23:40:35,718 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:40:35,722 - INFO - Success for cluster 310
+2025-07-27 23:40:35,724 - INFO - Using Anthropic Claude API
+2025-07-27 23:40:49,884 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:40:49,887 - INFO - Success for cluster 311
+2025-07-27 23:40:49,890 - INFO - Using Anthropic Claude API
+2025-07-27 23:41:06,162 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:41:06,165 - INFO - Success for cluster 312
+2025-07-27 23:41:06,168 - INFO - Using Anthropic Claude API
+2025-07-27 23:41:20,721 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:41:20,725 - INFO - Success for cluster 313
+2025-07-27 23:41:20,727 - INFO - Using Anthropic Claude API
+2025-07-27 23:41:35,109 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:41:35,113 - INFO - Success for cluster 314
+2025-07-27 23:41:35,335 - INFO - Saved progress for 315 clusters
+2025-07-27 23:41:35,337 - INFO - Using Anthropic Claude API
+2025-07-27 23:41:52,391 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:41:52,394 - INFO - Success for cluster 315
+2025-07-27 23:41:52,396 - INFO - Using Anthropic Claude API
+2025-07-27 23:42:04,440 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:42:04,444 - INFO - Success for cluster 316
+2025-07-27 23:42:04,446 - INFO - Using Anthropic Claude API
+2025-07-27 23:42:14,494 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:42:14,497 - INFO - Success for cluster 317
+2025-07-27 23:42:14,500 - INFO - Using Anthropic Claude API
+2025-07-27 23:42:22,271 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:42:22,275 - INFO - Success for cluster 318
+2025-07-27 23:42:22,277 - INFO - Using Anthropic Claude API
+2025-07-27 23:42:34,871 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:42:34,875 - INFO - Success for cluster 319
+2025-07-27 23:42:35,133 - INFO - Saved progress for 320 clusters
+2025-07-27 23:42:35,137 - INFO - Using Anthropic Claude API
+2025-07-27 23:42:46,547 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:42:46,551 - INFO - Success for cluster 320
+2025-07-27 23:42:46,553 - INFO - Using Anthropic Claude API
+2025-07-27 23:43:02,081 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:43:02,084 - INFO - Success for cluster 321
+2025-07-27 23:43:02,086 - INFO - Using Anthropic Claude API
+2025-07-27 23:43:17,746 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:43:17,750 - INFO - Success for cluster 322
+2025-07-27 23:43:17,752 - INFO - Using Anthropic Claude API
+2025-07-27 23:43:29,961 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:43:29,964 - INFO - Success for cluster 323
+2025-07-27 23:43:29,968 - INFO - Using Anthropic Claude API
+2025-07-27 23:43:43,757 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:43:43,760 - INFO - Success for cluster 324
+2025-07-27 23:43:43,964 - INFO - Saved progress for 325 clusters
+2025-07-27 23:43:43,967 - INFO - Using Anthropic Claude API
+2025-07-27 23:43:59,263 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:43:59,266 - INFO - Success for cluster 325
+2025-07-27 23:43:59,269 - INFO - Using Anthropic Claude API
+2025-07-27 23:44:12,395 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:44:12,398 - INFO - Success for cluster 326
+2025-07-27 23:44:12,401 - INFO - Using Anthropic Claude API
+2025-07-27 23:44:26,194 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:44:26,197 - INFO - Success for cluster 327
+2025-07-27 23:44:26,200 - INFO - Using Anthropic Claude API
+2025-07-27 23:44:40,602 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:44:40,606 - INFO - Success for cluster 328
+2025-07-27 23:44:40,609 - INFO - Using Anthropic Claude API
+2025-07-27 23:44:47,181 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:44:47,184 - INFO - Success for cluster 329
+2025-07-27 23:44:47,411 - INFO - Saved progress for 330 clusters
+2025-07-27 23:44:47,413 - INFO - Using Anthropic Claude API
+2025-07-27 23:44:56,172 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:44:56,175 - INFO - Success for cluster 330
+2025-07-27 23:44:56,177 - INFO - Using Anthropic Claude API
+2025-07-27 23:45:08,494 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:45:08,498 - INFO - Success for cluster 331
+2025-07-27 23:45:08,500 - INFO - Using Anthropic Claude API
+2025-07-27 23:45:25,415 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:45:25,418 - INFO - Success for cluster 332
+2025-07-27 23:45:25,421 - INFO - Using Anthropic Claude API
+2025-07-27 23:45:38,614 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:45:38,618 - INFO - Success for cluster 333
+2025-07-27 23:45:38,620 - INFO - Using Anthropic Claude API
+2025-07-27 23:45:49,958 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:45:49,962 - INFO - Success for cluster 334
+2025-07-27 23:45:50,422 - INFO - Saved progress for 335 clusters
+2025-07-27 23:45:50,425 - INFO - Using Anthropic Claude API
+2025-07-27 23:46:04,182 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:46:04,185 - INFO - Success for cluster 335
+2025-07-27 23:46:04,188 - INFO - Using Anthropic Claude API
+2025-07-27 23:46:15,451 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:46:15,454 - INFO - Success for cluster 336
+2025-07-27 23:46:15,457 - INFO - Using Anthropic Claude API
+2025-07-27 23:46:29,860 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:46:29,863 - INFO - Success for cluster 337
+2025-07-27 23:46:29,866 - INFO - Using Anthropic Claude API
+2025-07-27 23:46:43,685 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:46:43,688 - INFO - Success for cluster 338
+2025-07-27 23:46:43,691 - INFO - Using Anthropic Claude API
+2025-07-27 23:46:53,327 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:46:53,331 - INFO - Success for cluster 339
+2025-07-27 23:46:53,775 - INFO - Saved progress for 340 clusters
+2025-07-27 23:46:53,777 - INFO - Using Anthropic Claude API
+2025-07-27 23:47:09,140 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:47:09,143 - INFO - Success for cluster 340
+2025-07-27 23:47:09,146 - INFO - Using Anthropic Claude API
+2025-07-27 23:47:21,501 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:47:21,504 - INFO - Success for cluster 341
+2025-07-27 23:47:21,507 - INFO - Using Anthropic Claude API
+2025-07-27 23:47:37,404 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:47:37,407 - INFO - Success for cluster 342
+2025-07-27 23:47:37,410 - INFO - Using Anthropic Claude API
+2025-07-27 23:47:50,066 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:47:50,069 - INFO - Success for cluster 343
+2025-07-27 23:47:50,072 - INFO - Using Anthropic Claude API
+2025-07-27 23:48:01,047 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:48:01,050 - INFO - Success for cluster 344
+2025-07-27 23:48:01,250 - INFO - Saved progress for 345 clusters
+2025-07-27 23:48:01,252 - INFO - Using Anthropic Claude API
+2025-07-27 23:48:18,662 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:48:18,665 - INFO - Success for cluster 345
+2025-07-27 23:48:18,668 - INFO - Using Anthropic Claude API
+2025-07-27 23:48:28,235 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:48:28,239 - INFO - Success for cluster 346
+2025-07-27 23:48:28,242 - INFO - Using Anthropic Claude API
+2025-07-27 23:48:43,123 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:48:43,126 - INFO - Success for cluster 347
+2025-07-27 23:48:43,129 - INFO - Using Anthropic Claude API
+2025-07-27 23:48:54,632 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:48:54,636 - INFO - Success for cluster 348
+2025-07-27 23:48:54,638 - INFO - Using Anthropic Claude API
+2025-07-27 23:49:07,357 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:49:07,361 - INFO - Success for cluster 349
+2025-07-27 23:49:07,551 - INFO - Saved progress for 350 clusters
+2025-07-27 23:49:07,553 - INFO - Using Anthropic Claude API
+2025-07-27 23:49:19,486 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:49:19,490 - INFO - Success for cluster 350
+2025-07-27 23:49:19,492 - INFO - Using Anthropic Claude API
+2025-07-27 23:49:32,328 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:49:32,331 - INFO - Success for cluster 351
+2025-07-27 23:49:32,334 - INFO - Using Anthropic Claude API
+2025-07-27 23:49:45,583 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:49:45,586 - INFO - Success for cluster 352
+2025-07-27 23:49:45,588 - INFO - Using Anthropic Claude API
+2025-07-27 23:50:01,156 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:50:01,159 - INFO - Success for cluster 353
+2025-07-27 23:50:01,162 - INFO - Using Anthropic Claude API
+2025-07-27 23:50:13,538 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:50:13,542 - INFO - Success for cluster 354
+2025-07-27 23:50:13,737 - INFO - Saved progress for 355 clusters
+2025-07-27 23:50:13,740 - INFO - Using Anthropic Claude API
+2025-07-27 23:50:27,401 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:50:27,404 - INFO - Success for cluster 355
+2025-07-27 23:50:27,407 - INFO - Using Anthropic Claude API
+2025-07-27 23:50:39,777 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:50:39,780 - INFO - Success for cluster 356
+2025-07-27 23:50:39,783 - INFO - Using Anthropic Claude API
+2025-07-27 23:50:50,780 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:50:50,783 - INFO - Success for cluster 357
+2025-07-27 23:50:50,786 - INFO - Using Anthropic Claude API
+2025-07-27 23:51:01,662 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:51:01,665 - INFO - Success for cluster 358
+2025-07-27 23:51:01,668 - INFO - Using Anthropic Claude API
+2025-07-27 23:51:14,330 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:51:14,333 - INFO - Success for cluster 359
+2025-07-27 23:51:14,523 - INFO - Saved progress for 360 clusters
+2025-07-27 23:51:14,525 - INFO - Using Anthropic Claude API
+2025-07-27 23:51:23,091 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:51:23,095 - INFO - Success for cluster 360
+2025-07-27 23:51:23,098 - INFO - Using Anthropic Claude API
+2025-07-27 23:51:33,185 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:51:33,189 - INFO - Success for cluster 361
+2025-07-27 23:51:33,192 - INFO - Using Anthropic Claude API
+2025-07-27 23:51:48,763 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:51:48,766 - INFO - Success for cluster 362
+2025-07-27 23:51:48,768 - INFO - Using Anthropic Claude API
+2025-07-27 23:52:06,050 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:52:06,053 - INFO - Success for cluster 363
+2025-07-27 23:52:06,056 - INFO - Using Anthropic Claude API
+2025-07-27 23:52:19,348 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:52:19,351 - INFO - Success for cluster 364
+2025-07-27 23:52:19,546 - INFO - Saved progress for 365 clusters
+2025-07-27 23:52:19,548 - INFO - Using Anthropic Claude API
+2025-07-27 23:52:36,386 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:52:36,389 - INFO - Success for cluster 365
+2025-07-27 23:52:36,391 - INFO - Using Anthropic Claude API
+2025-07-27 23:52:50,424 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:52:50,427 - INFO - Success for cluster 366
+2025-07-27 23:52:50,430 - INFO - Using Anthropic Claude API
+2025-07-27 23:53:00,246 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:53:00,249 - INFO - Success for cluster 367
+2025-07-27 23:53:00,252 - INFO - Using Anthropic Claude API
+2025-07-27 23:53:13,114 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:53:13,117 - INFO - Success for cluster 368
+2025-07-27 23:53:13,120 - INFO - Using Anthropic Claude API
+2025-07-27 23:53:27,839 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:53:27,843 - INFO - Success for cluster 369
+2025-07-27 23:53:28,035 - INFO - Saved progress for 370 clusters
+2025-07-27 23:53:28,038 - INFO - Using Anthropic Claude API
+2025-07-27 23:53:36,753 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:53:36,756 - INFO - Success for cluster 370
+2025-07-27 23:53:36,759 - INFO - Using Anthropic Claude API
+2025-07-27 23:53:52,378 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:53:52,381 - INFO - Success for cluster 371
+2025-07-27 23:53:52,384 - INFO - Using Anthropic Claude API
+2025-07-27 23:54:05,123 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:54:05,127 - INFO - Success for cluster 372
+2025-07-27 23:54:05,129 - INFO - Using Anthropic Claude API
+2025-07-27 23:54:19,719 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:54:19,723 - INFO - Success for cluster 373
+2025-07-27 23:54:19,726 - INFO - Using Anthropic Claude API
+2025-07-27 23:54:31,601 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:54:31,604 - INFO - Success for cluster 374
+2025-07-27 23:54:31,804 - INFO - Saved progress for 375 clusters
+2025-07-27 23:54:31,807 - INFO - Using Anthropic Claude API
+2025-07-27 23:54:42,998 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:54:43,001 - INFO - Success for cluster 375
+2025-07-27 23:54:43,004 - INFO - Using Anthropic Claude API
+2025-07-27 23:54:57,205 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:54:57,209 - INFO - Success for cluster 376
+2025-07-27 23:54:57,211 - INFO - Using Anthropic Claude API
+2025-07-27 23:55:10,236 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:55:10,240 - INFO - Success for cluster 377
+2025-07-27 23:55:10,243 - INFO - Using Anthropic Claude API
+2025-07-27 23:55:21,106 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:55:21,119 - INFO - Success for cluster 378
+2025-07-27 23:55:21,121 - INFO - Using Anthropic Claude API
+2025-07-27 23:55:32,213 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:55:32,216 - INFO - Success for cluster 379
+2025-07-27 23:55:32,451 - INFO - Saved progress for 380 clusters
+2025-07-27 23:55:32,453 - INFO - Using Anthropic Claude API
+2025-07-27 23:55:47,047 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:55:47,050 - INFO - Success for cluster 380
+2025-07-27 23:55:47,053 - INFO - Using Anthropic Claude API
+2025-07-27 23:55:58,803 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:55:58,807 - INFO - Success for cluster 381
+2025-07-27 23:55:58,810 - INFO - Using Anthropic Claude API
+2025-07-27 23:56:12,186 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:56:12,189 - INFO - Success for cluster 382
+2025-07-27 23:56:12,191 - INFO - Using Anthropic Claude API
+2025-07-27 23:56:25,926 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:56:25,929 - INFO - Success for cluster 383
+2025-07-27 23:56:25,932 - INFO - Using Anthropic Claude API
+2025-07-27 23:56:37,887 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:56:37,891 - INFO - Success for cluster 384
+2025-07-27 23:56:38,070 - INFO - Saved progress for 385 clusters
+2025-07-27 23:56:38,073 - INFO - Using Anthropic Claude API
+2025-07-27 23:56:53,375 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:56:53,378 - INFO - Success for cluster 385
+2025-07-27 23:56:53,381 - INFO - Using Anthropic Claude API
+2025-07-27 23:57:06,846 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:57:06,849 - INFO - Success for cluster 386
+2025-07-27 23:57:06,851 - INFO - Using Anthropic Claude API
+2025-07-27 23:57:17,825 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:57:17,829 - INFO - Success for cluster 387
+2025-07-27 23:57:17,832 - INFO - Using Anthropic Claude API
+2025-07-27 23:57:30,294 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:57:30,297 - INFO - Success for cluster 388
+2025-07-27 23:57:30,300 - INFO - Using Anthropic Claude API
+2025-07-27 23:57:43,091 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:57:43,094 - INFO - Success for cluster 389
+2025-07-27 23:57:43,293 - INFO - Saved progress for 390 clusters
+2025-07-27 23:57:43,295 - INFO - Using Anthropic Claude API
+2025-07-27 23:57:55,496 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:57:55,499 - INFO - Success for cluster 390
+2025-07-27 23:57:55,502 - INFO - Using Anthropic Claude API
+2025-07-27 23:58:07,386 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:58:07,390 - INFO - Success for cluster 391
+2025-07-27 23:58:07,393 - INFO - Using Anthropic Claude API
+2025-07-27 23:58:19,238 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:58:19,241 - INFO - Success for cluster 392
+2025-07-27 23:58:19,244 - INFO - Using Anthropic Claude API
+2025-07-27 23:58:32,091 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:58:32,094 - INFO - Success for cluster 393
+2025-07-27 23:58:32,098 - INFO - Using Anthropic Claude API
+2025-07-27 23:58:43,669 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:58:43,673 - INFO - Success for cluster 394
+2025-07-27 23:58:43,904 - INFO - Saved progress for 395 clusters
+2025-07-27 23:58:43,906 - INFO - Using Anthropic Claude API
+2025-07-27 23:58:54,362 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:58:54,366 - INFO - Success for cluster 395
+2025-07-27 23:58:54,368 - INFO - Using Anthropic Claude API
+2025-07-27 23:59:07,695 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:59:07,698 - INFO - Success for cluster 396
+2025-07-27 23:59:07,701 - INFO - Using Anthropic Claude API
+2025-07-27 23:59:16,845 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:59:16,849 - INFO - Success for cluster 397
+2025-07-27 23:59:16,851 - INFO - Using Anthropic Claude API
+2025-07-27 23:59:29,337 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:59:29,340 - INFO - Success for cluster 398
+2025-07-27 23:59:29,343 - INFO - Using Anthropic Claude API
+2025-07-27 23:59:42,006 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:59:42,009 - INFO - Success for cluster 399
+2025-07-27 23:59:42,218 - INFO - Saved progress for 400 clusters
+2025-07-27 23:59:42,222 - INFO - Using Anthropic Claude API
+2025-07-27 23:59:51,370 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-27 23:59:51,374 - INFO - Success for cluster 400
+2025-07-27 23:59:51,376 - INFO - Using Anthropic Claude API
+2025-07-28 00:00:01,732 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:00:01,735 - INFO - Success for cluster 401
+2025-07-28 00:00:01,737 - INFO - Using Anthropic Claude API
+2025-07-28 00:00:14,678 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:00:14,681 - INFO - Success for cluster 402
+2025-07-28 00:00:14,683 - INFO - Using Anthropic Claude API
+2025-07-28 00:00:26,566 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:00:26,579 - INFO - Success for cluster 403
+2025-07-28 00:00:26,582 - INFO - Using Anthropic Claude API
+2025-07-28 00:00:37,715 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:00:37,718 - INFO - Success for cluster 404
+2025-07-28 00:00:37,970 - INFO - Saved progress for 405 clusters
+2025-07-28 00:00:37,973 - INFO - Using Anthropic Claude API
+2025-07-28 00:00:53,608 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:00:53,612 - INFO - Success for cluster 405
+2025-07-28 00:00:53,614 - INFO - Using Anthropic Claude API
+2025-07-28 00:01:04,912 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:01:04,915 - INFO - Success for cluster 406
+2025-07-28 00:01:04,917 - INFO - Using Anthropic Claude API
+2025-07-28 00:01:15,177 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:01:15,180 - INFO - Success for cluster 407
+2025-07-28 00:01:15,183 - INFO - Using Anthropic Claude API
+2025-07-28 00:01:24,222 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:01:24,226 - INFO - Success for cluster 408
+2025-07-28 00:01:24,229 - INFO - Using Anthropic Claude API
+2025-07-28 00:01:34,909 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:01:34,912 - INFO - Success for cluster 409
+2025-07-28 00:01:35,141 - INFO - Saved progress for 410 clusters
+2025-07-28 00:01:35,144 - INFO - Using Anthropic Claude API
+2025-07-28 00:01:44,399 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:01:44,403 - INFO - Success for cluster 410
+2025-07-28 00:01:44,405 - INFO - Using Anthropic Claude API
+2025-07-28 00:01:55,736 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:01:55,740 - INFO - Success for cluster 411
+2025-07-28 00:01:55,742 - INFO - Using Anthropic Claude API
+2025-07-28 00:02:05,346 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:02:05,349 - INFO - Success for cluster 412
+2025-07-28 00:02:05,352 - INFO - Using Anthropic Claude API
+2025-07-28 00:02:18,495 - INFO - Anthropic API call successful: model=claude-3-7-sonnet-20250219
+2025-07-28 00:02:18,498 - INFO - Success for cluster 413
+2025-07-28 00:02:18,703 - INFO - Completed analysis for 414 clusters with data saved to disk
