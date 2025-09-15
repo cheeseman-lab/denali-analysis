@@ -8,7 +8,7 @@ default-resources:
     mem_mb: 3000
     tasks: 1
     cpus_per_task: 1
-    runtime: 400
+    runtime: 800
     slurm_extra: "'--output=slurm/slurm_output/rule/%j.out'"
 jobs: 500
 
