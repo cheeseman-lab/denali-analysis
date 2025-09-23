@@ -130,8 +130,8 @@ aggregate:
   variance_or_ncomp: 0.99
   num_align_batches: 1
   agg_method: median
-  ps_auc_threshold: 0.6
-  perturbation_score_threshold: 0.5
+  skip_perturbation_score: False
+  ps_probability_threshold: 0.75
 cluster:
   min_cell_cutoffs:
     Mitotic: 0
